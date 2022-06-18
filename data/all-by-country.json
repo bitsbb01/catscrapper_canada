@@ -1,9 +1,9 @@
 {
     "canada": [
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -15,9 +15,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1121,20 +1121,6 @@
             ]
         },
         {
-            "id": "370",
-            "channel": "ICI RDI",
-            "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-06-18T00:00:00Z",
-            "format": "hd",
-            "mbps": "5991",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "132573",
             "channel": "ICI RDI",
             "link": "https://list.iptvcat.com/my_list/s/81a2b998054242e72470d4bf3a5f9543.m3u8",
@@ -1144,6 +1130,20 @@
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "370",
+            "channel": "ICI RDI",
+            "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-06-18T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1381,7 +1381,7 @@
             "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1395,15 +1395,15 @@
             "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "8378",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1415,9 +1415,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -2521,20 +2521,6 @@
             ]
         },
         {
-            "id": "370",
-            "channel": "ICI RDI",
-            "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-06-18T00:00:00Z",
-            "format": "hd",
-            "mbps": "5991",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "132573",
             "channel": "ICI RDI",
             "link": "https://list.iptvcat.com/my_list/s/81a2b998054242e72470d4bf3a5f9543.m3u8",
@@ -2544,6 +2530,20 @@
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "370",
+            "channel": "ICI RDI",
+            "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-06-18T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2781,7 +2781,7 @@
             "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2795,7 +2795,7 @@
             "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "8378",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2806,7 +2806,7 @@
             "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -3193,20 +3193,6 @@
             ]
         },
         {
-            "id": "51574",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-06-18T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada"
-            ]
-        },
-        {
             "id": "385",
             "channel": "Tamil Vision TV",
             "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
@@ -3216,6 +3202,20 @@
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
+            "URI": [
+                "canada"
+            ]
+        },
+        {
+            "id": "51574",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-06-18T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
             "URI": [
                 "canada"
             ]
@@ -3431,9 +3431,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3445,9 +3445,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -4551,20 +4551,6 @@
             ]
         },
         {
-            "id": "370",
-            "channel": "ICI RDI",
-            "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-06-18T00:00:00Z",
-            "format": "hd",
-            "mbps": "5991",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "132573",
             "channel": "ICI RDI",
             "link": "https://list.iptvcat.com/my_list/s/81a2b998054242e72470d4bf3a5f9543.m3u8",
@@ -4574,6 +4560,20 @@
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "370",
+            "channel": "ICI RDI",
+            "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-06-18T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4811,7 +4811,7 @@
             "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4825,7 +4825,7 @@
             "status": "online",
             "lastChecked": "2022-06-18T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "8378",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
