@@ -117,7 +117,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -1394,7 +1394,7 @@
         "status": "online",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1517,7 +1517,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -2794,7 +2794,7 @@
         "status": "online",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -3575,7 +3575,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -4852,7 +4852,7 @@
         "status": "online",
         "lastChecked": "2022-06-30T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8370",
         "URI": [
             "canada_-_-_-_-_-"
         ]
