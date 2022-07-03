@@ -1,9 +1,9 @@
 {
     "canada": [
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -15,9 +15,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -580,7 +580,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e69a80929ad1730f1a1748f59d6b8bdb.m3u8",
             "country": "canada",
             "liveliness": "94",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-03T00:00:00Z",
             "format": "hd",
             "mbps": "7114",
@@ -1401,9 +1401,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1415,9 +1415,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1513,9 +1513,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -1527,9 +1527,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -1980,7 +1980,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e69a80929ad1730f1a1748f59d6b8bdb.m3u8",
             "country": "canada",
             "liveliness": "94",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-03T00:00:00Z",
             "format": "hd",
             "mbps": "7114",
@@ -2801,9 +2801,9 @@
             ]
         },
         {
-            "id": "51568",
+            "id": "379",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -2815,9 +2815,9 @@
             ]
         },
         {
-            "id": "379",
+            "id": "51568",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -3445,9 +3445,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3459,9 +3459,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3557,9 +3557,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -3571,9 +3571,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -4024,7 +4024,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e69a80929ad1730f1a1748f59d6b8bdb.m3u8",
             "country": "canada",
             "liveliness": "94",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-03T00:00:00Z",
             "format": "hd",
             "mbps": "7114",
