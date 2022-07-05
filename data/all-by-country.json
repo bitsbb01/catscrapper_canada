@@ -120,8 +120,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -134,8 +134,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -771,11 +771,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "97",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "hd",
@@ -785,11 +785,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "hd",
@@ -902,7 +902,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b0e25ab6f410068cdb77cdca86c9f0f5.m3u8",
             "country": "canada",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -1352,22 +1352,8 @@
             "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266817",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-07-05T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "13311",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1387,9 +1373,23 @@
             ]
         },
         {
-            "id": "379",
+            "id": "2266817",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-05T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "51568",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -1520,8 +1520,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1534,8 +1534,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2171,11 +2171,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "97",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "hd",
@@ -2185,11 +2185,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "hd",
@@ -2302,7 +2302,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b0e25ab6f410068cdb77cdca86c9f0f5.m3u8",
             "country": "canada",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -2752,22 +2752,8 @@
             "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266817",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-07-05T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "13311",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2787,9 +2773,23 @@
             ]
         },
         {
-            "id": "379",
+            "id": "2266817",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-05T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "51568",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -2801,9 +2801,9 @@
             ]
         },
         {
-            "id": "51568",
+            "id": "379",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -3550,8 +3550,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -3564,8 +3564,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4201,11 +4201,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "97",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "hd",
@@ -4215,11 +4215,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "hd",
@@ -4332,7 +4332,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b0e25ab6f410068cdb77cdca86c9f0f5.m3u8",
             "country": "canada",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -4782,22 +4782,8 @@
             "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-07-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266817",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-07-05T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "13311",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4817,9 +4803,23 @@
             ]
         },
         {
-            "id": "379",
+            "id": "2266817",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-05T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "51568",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
