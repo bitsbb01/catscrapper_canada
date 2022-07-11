@@ -1,9 +1,9 @@
 {
     "canada": [
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -15,9 +15,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -89,7 +89,7 @@
             "channel": "ANIMAL PLANET HD",
             "link": "https://list.iptvcat.com/my_list/s/37c1c43992843d1e3f4a33bf7e12b099.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "sd",
@@ -120,8 +120,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "hd",
-            "mbps": "5997",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -134,8 +134,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "hd",
-            "mbps": "5997",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -537,7 +537,7 @@
             "channel": "CTV Montreal SD",
             "link": "https://list.iptvcat.com/my_list/s/64d3e707afac595e4e4fa3748f3d839c.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "sd",
@@ -834,8 +834,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "fhd 2k",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1126,7 +1126,7 @@
             "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
@@ -1401,9 +1401,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1415,9 +1415,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1489,7 +1489,7 @@
             "channel": "ANIMAL PLANET HD",
             "link": "https://list.iptvcat.com/my_list/s/37c1c43992843d1e3f4a33bf7e12b099.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "sd",
@@ -1520,8 +1520,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "hd",
-            "mbps": "5997",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1534,8 +1534,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "hd",
-            "mbps": "5997",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1937,7 +1937,7 @@
             "channel": "CTV Montreal SD",
             "link": "https://list.iptvcat.com/my_list/s/64d3e707afac595e4e4fa3748f3d839c.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "sd",
@@ -2234,8 +2234,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "fhd 2k",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2526,7 +2526,7 @@
             "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
@@ -3431,9 +3431,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3445,9 +3445,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3519,7 +3519,7 @@
             "channel": "ANIMAL PLANET HD",
             "link": "https://list.iptvcat.com/my_list/s/37c1c43992843d1e3f4a33bf7e12b099.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "sd",
@@ -3550,8 +3550,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "hd",
-            "mbps": "5997",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -3564,8 +3564,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "hd",
-            "mbps": "5997",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -3967,7 +3967,7 @@
             "channel": "CTV Montreal SD",
             "link": "https://list.iptvcat.com/my_list/s/64d3e707afac595e4e4fa3748f3d839c.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "sd",
@@ -4264,8 +4264,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-11T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "fhd 2k",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4556,7 +4556,7 @@
             "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-11T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
