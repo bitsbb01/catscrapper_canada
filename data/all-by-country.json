@@ -120,8 +120,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -134,8 +134,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -692,7 +692,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b6e9bb1b247a132829b57cc6c81371fa.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -771,11 +771,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -785,11 +785,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -1125,7 +1125,7 @@
             "channel": "ICI RDI",
             "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "offline",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -1367,7 +1367,7 @@
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "6724",
+            "mbps": "8370",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1520,8 +1520,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1534,8 +1534,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2092,7 +2092,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b6e9bb1b247a132829b57cc6c81371fa.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -2171,11 +2171,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -2185,11 +2185,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -2525,7 +2525,7 @@
             "channel": "ICI RDI",
             "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "offline",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -2767,7 +2767,7 @@
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "6724",
+            "mbps": "8370",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -3179,20 +3179,6 @@
             ]
         },
         {
-            "id": "385",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "canada"
-            ]
-        },
-        {
             "id": "51574",
             "channel": "Tamil Vision TV",
             "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
@@ -3202,6 +3188,20 @@
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
+            "URI": [
+                "canada"
+            ]
+        },
+        {
+            "id": "385",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-13T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "canada"
             ]
@@ -3243,7 +3243,7 @@
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "sd",
-            "mbps": "3429",
+            "mbps": "3883",
             "URI": [
                 "canada"
             ]
@@ -3550,8 +3550,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -3564,8 +3564,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "hd",
+            "mbps": "5997",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4122,7 +4122,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b6e9bb1b247a132829b57cc6c81371fa.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -4201,11 +4201,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -4215,11 +4215,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -4555,7 +4555,7 @@
             "channel": "ICI RDI",
             "link": "https://list.iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "offline",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "hd",
@@ -4797,7 +4797,7 @@
             "status": "online",
             "lastChecked": "2022-07-13T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "6724",
+            "mbps": "8370",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
