@@ -467,7 +467,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f057ab4872c283d842923e7eafb5a681.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -760,7 +760,7 @@
         "channel": "Disney XD HD",
         "link": "https://list.iptvcat.com/my_list/s/744c1dbdd76bb02b0a1d70ab82e71ff8.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "sd",
@@ -1372,9 +1372,9 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -1386,9 +1386,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -1867,7 +1867,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f057ab4872c283d842923e7eafb5a681.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -2160,7 +2160,7 @@
         "channel": "Disney XD HD",
         "link": "https://list.iptvcat.com/my_list/s/744c1dbdd76bb02b0a1d70ab82e71ff8.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "sd",
@@ -2772,9 +2772,9 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -2786,9 +2786,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -3164,20 +3164,6 @@
         ]
     },
     {
-        "id": "385",
-        "channel": "Tamil Vision TV",
-        "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-07-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada"
-        ]
-    },
-    {
         "id": "51574",
         "channel": "Tamil Vision TV",
         "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
@@ -3187,6 +3173,20 @@
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "canada"
+        ]
+    },
+    {
+        "id": "385",
+        "channel": "Tamil Vision TV",
+        "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-07-27T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "canada"
         ]
@@ -3883,7 +3883,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f057ab4872c283d842923e7eafb5a681.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -4176,7 +4176,7 @@
         "channel": "Disney XD HD",
         "link": "https://list.iptvcat.com/my_list/s/744c1dbdd76bb02b0a1d70ab82e71ff8.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-07-27T00:00:00Z",
         "format": "sd",
@@ -4788,9 +4788,9 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -4802,9 +4802,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
