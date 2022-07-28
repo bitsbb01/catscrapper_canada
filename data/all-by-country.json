@@ -6,7 +6,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -20,7 +20,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -89,7 +89,7 @@
             "channel": "ANIMAL PLANET HD",
             "link": "https://list.iptvcat.com/my_list/s/37c1c43992843d1e3f4a33bf7e12b099.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "sd",
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -834,8 +834,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "fhd 2k",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1335,25 +1335,11 @@
             "channel": "Pardesi TV",
             "link": "https://list.iptvcat.com/my_list/s/2e9fcab653a8fe7ff9b274a50eca8fd9.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266819",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-07-28T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1364,6 +1350,20 @@
             "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
             "country": "canada",
             "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-28T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2266819",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+            "country": "canada",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "fhd 2k",
@@ -1406,7 +1406,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -1420,7 +1420,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -1489,7 +1489,7 @@
             "channel": "ANIMAL PLANET HD",
             "link": "https://list.iptvcat.com/my_list/s/37c1c43992843d1e3f4a33bf7e12b099.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "sd",
@@ -1513,9 +1513,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -1527,9 +1527,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -2234,8 +2234,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "fhd 2k",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2735,25 +2735,11 @@
             "channel": "Pardesi TV",
             "link": "https://list.iptvcat.com/my_list/s/2e9fcab653a8fe7ff9b274a50eca8fd9.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266819",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-07-28T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2764,6 +2750,20 @@
             "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
             "country": "canada",
             "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-28T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2266819",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+            "country": "canada",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "fhd 2k",
@@ -3085,8 +3085,8 @@
             "channel": "TV 16 Toronto (720p) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/b7f1062c838699b9aa92c3547775c210.m3u8",
             "country": "canada",
-            "liveliness": "95",
-            "status": "offline",
+            "liveliness": "94",
+            "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "3625",
@@ -3422,7 +3422,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -3436,7 +3436,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -3505,7 +3505,7 @@
             "channel": "ANIMAL PLANET HD",
             "link": "https://list.iptvcat.com/my_list/s/37c1c43992843d1e3f4a33bf7e12b099.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "sd",
@@ -3529,9 +3529,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -3543,9 +3543,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -4250,8 +4250,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
-            "format": "sd",
-            "mbps": "136",
+            "format": "fhd 2k",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4751,25 +4751,11 @@
             "channel": "Pardesi TV",
             "link": "https://list.iptvcat.com/my_list/s/2e9fcab653a8fe7ff9b274a50eca8fd9.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266819",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-07-28T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4780,6 +4766,20 @@
             "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
             "country": "canada",
             "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-07-28T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2266819",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+            "country": "canada",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-07-28T00:00:00Z",
             "format": "fhd 2k",
