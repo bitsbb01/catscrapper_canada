@@ -1344,20 +1344,6 @@
         ]
     },
     {
-        "id": "2266819",
-        "channel": "Plymouth Rock TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-        "country": "canada",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266817",
         "channel": "Plymouth Rock TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
@@ -1372,9 +1358,23 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "2266819",
+        "channel": "Plymouth Rock TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+        "country": "canada",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -1386,9 +1386,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -2744,20 +2744,6 @@
         ]
     },
     {
-        "id": "2266819",
-        "channel": "Plymouth Rock TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-        "country": "canada",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266817",
         "channel": "Plymouth Rock TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
@@ -2772,9 +2758,23 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "2266819",
+        "channel": "Plymouth Rock TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+        "country": "canada",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -2786,9 +2786,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -3164,20 +3164,6 @@
         ]
     },
     {
-        "id": "385",
-        "channel": "Tamil Vision TV",
-        "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada"
-        ]
-    },
-    {
         "id": "51574",
         "channel": "Tamil Vision TV",
         "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
@@ -3187,6 +3173,20 @@
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "canada"
+        ]
+    },
+    {
+        "id": "385",
+        "channel": "Tamil Vision TV",
+        "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
         "URI": [
             "canada"
         ]
@@ -3295,7 +3295,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3ea678a3795e1796bd5ea24c61ddbc17.m3u8",
         "country": "canada",
         "liveliness": "100",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-01T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -4760,20 +4760,6 @@
         ]
     },
     {
-        "id": "2266819",
-        "channel": "Plymouth Rock TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-        "country": "canada",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-08-01T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266817",
         "channel": "Plymouth Rock TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
@@ -4788,9 +4774,23 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "2266819",
+        "channel": "Plymouth Rock TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+        "country": "canada",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-08-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -4802,9 +4802,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
