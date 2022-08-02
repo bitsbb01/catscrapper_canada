@@ -410,7 +410,7 @@
         "channel": "CHCH HD",
         "link": "https://list.iptvcat.com/my_list/s/10615b53409f30b3236aad6eb6dfd1f2.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -1138,7 +1138,7 @@
         "channel": "ICI Radio-Canada Télé HD (FR)",
         "link": "https://list.iptvcat.com/my_list/s/47b88a1ef0ce85dacd01fd7f08c5e29f.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -1366,7 +1366,7 @@
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1810,7 +1810,7 @@
         "channel": "CHCH HD",
         "link": "https://list.iptvcat.com/my_list/s/10615b53409f30b3236aad6eb6dfd1f2.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -2538,7 +2538,7 @@
         "channel": "ICI Radio-Canada Télé HD (FR)",
         "link": "https://list.iptvcat.com/my_list/s/47b88a1ef0ce85dacd01fd7f08c5e29f.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -2766,7 +2766,7 @@
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2861,7 +2861,7 @@
         "link": "https://list.iptvcat.com/my_list/s/529e6bb3c5b04e80660e9e92d51f9978.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "9546",
@@ -2916,7 +2916,7 @@
         "channel": "Slice HD",
         "link": "https://list.iptvcat.com/my_list/s/0cfc3fdacf9b9986299699511e7ab4d9.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -3164,20 +3164,6 @@
         ]
     },
     {
-        "id": "51574",
-        "channel": "Tamil Vision TV",
-        "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-02T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "canada"
-        ]
-    },
-    {
         "id": "385",
         "channel": "Tamil Vision TV",
         "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
@@ -3187,6 +3173,20 @@
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
+        "URI": [
+            "canada"
+        ]
+    },
+    {
+        "id": "51574",
+        "channel": "Tamil Vision TV",
+        "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-02T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada"
         ]
@@ -3826,7 +3826,7 @@
         "channel": "CHCH HD",
         "link": "https://list.iptvcat.com/my_list/s/10615b53409f30b3236aad6eb6dfd1f2.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -4554,7 +4554,7 @@
         "channel": "ICI Radio-Canada Télé HD (FR)",
         "link": "https://list.iptvcat.com/my_list/s/47b88a1ef0ce85dacd01fd7f08c5e29f.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "sd",
@@ -4782,7 +4782,7 @@
         "status": "online",
         "lastChecked": "2022-08-02T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
