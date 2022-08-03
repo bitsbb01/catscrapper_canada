@@ -113,9 +113,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -673,11 +673,25 @@
             ]
         },
         {
+            "id": "2581805",
+            "channel": "Deen TV (576p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/71be457c544d6d6b4fbefb5493e6a332.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "3262",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2266786",
             "channel": "DesheBideshe TV (720p)",
             "link": "https://list.iptvcat.com/my_list/s/0bca3a8dee3ab0653dab3c79cf4ed81a.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -771,11 +785,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -785,11 +799,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -1353,7 +1367,7 @@
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1368,20 +1382,6 @@
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "379",
-            "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
-            "country": "canada",
-            "liveliness": "97",
-            "status": "online",
-            "lastChecked": "2022-08-03T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1513,9 +1513,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -1527,9 +1527,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -2073,11 +2073,25 @@
             ]
         },
         {
+            "id": "2581805",
+            "channel": "Deen TV (576p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/71be457c544d6d6b4fbefb5493e6a332.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "3262",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2266786",
             "channel": "DesheBideshe TV (720p)",
             "link": "https://list.iptvcat.com/my_list/s/0bca3a8dee3ab0653dab3c79cf4ed81a.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -2171,11 +2185,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -2185,11 +2199,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -2753,7 +2767,7 @@
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -2773,20 +2787,6 @@
             ]
         },
         {
-            "id": "379",
-            "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
-            "country": "canada",
-            "liveliness": "97",
-            "status": "online",
-            "lastChecked": "2022-08-03T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "51568",
             "channel": "Prime Canada TV",
             "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
@@ -2798,6 +2798,20 @@
             "mbps": "4318",
             "URI": [
                 "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "379",
+            "channel": "Prime Canada TV",
+            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "country": "canada",
+            "liveliness": "97",
+            "status": "online",
+            "lastChecked": "2022-08-03T00:00:00Z",
+            "format": "hd",
+            "mbps": "4318",
+            "URI": [
+                "canada"
             ]
         },
         {
@@ -2904,7 +2918,7 @@
             "link": "https://list.iptvcat.com/my_list/s/ea0d1c9c1cd7f1ca982752ebbc2600d6.m3u8",
             "country": "canada",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
@@ -2932,7 +2946,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e4d6119618bc6867a6fe123ba9d61e85.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -3165,20 +3179,6 @@
             ]
         },
         {
-            "id": "51574",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-03T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada"
-            ]
-        },
-        {
             "id": "385",
             "channel": "Tamil Vision TV",
             "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
@@ -3188,6 +3188,20 @@
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
+            "URI": [
+                "canada"
+            ]
+        },
+        {
+            "id": "51574",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-03T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
             "URI": [
                 "canada"
             ]
@@ -3324,7 +3338,7 @@
             "link": "https://list.iptvcat.com/my_list/s/865adaa76802d2d2a58469fdff5cab6b.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -3384,6 +3398,20 @@
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "canada"
+            ]
+        },
+        {
+            "id": "2581813",
+            "channel": "iON TV (576p)",
+            "link": "https://list.iptvcat.com/my_list/s/a04c9018a37bea400386b24fc436942d.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "3262",
             "URI": [
                 "canada"
             ]
@@ -3529,9 +3557,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -3543,9 +3571,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -4089,11 +4117,25 @@
             ]
         },
         {
+            "id": "2581805",
+            "channel": "Deen TV (576p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/71be457c544d6d6b4fbefb5493e6a332.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "3262",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2266786",
             "channel": "DesheBideshe TV (720p)",
             "link": "https://list.iptvcat.com/my_list/s/0bca3a8dee3ab0653dab3c79cf4ed81a.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -4187,11 +4229,11 @@
             ]
         },
         {
-            "id": "2266791",
+            "id": "2266788",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -4201,11 +4243,11 @@
             ]
         },
         {
-            "id": "2266788",
+            "id": "2266791",
             "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/cc33e705b3d6ca450fb11f38a7c46aae.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "hd",
@@ -4769,7 +4811,7 @@
             "status": "online",
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "6724",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4784,20 +4826,6 @@
             "lastChecked": "2022-08-03T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "379",
-            "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
-            "country": "canada",
-            "liveliness": "97",
-            "status": "online",
-            "lastChecked": "2022-08-03T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
