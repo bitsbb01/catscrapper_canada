@@ -565,7 +565,7 @@
         "link": "https://list.iptvcat.com/my_list/s/34fba7b2f79f63d63fe59ae56f3f34dc.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -1358,20 +1358,6 @@
         ]
     },
     {
-        "id": "2266817",
-        "channel": "Plymouth Rock TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266819",
         "channel": "Plymouth Rock TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
@@ -1381,6 +1367,20 @@
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2266817",
+        "channel": "Plymouth Rock TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-04T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1965,7 +1965,7 @@
         "link": "https://list.iptvcat.com/my_list/s/34fba7b2f79f63d63fe59ae56f3f34dc.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -2758,20 +2758,6 @@
         ]
     },
     {
-        "id": "2266817",
-        "channel": "Plymouth Rock TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266819",
         "channel": "Plymouth Rock TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
@@ -2781,6 +2767,20 @@
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2266817",
+        "channel": "Plymouth Rock TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-04T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -4009,7 +4009,7 @@
         "link": "https://list.iptvcat.com/my_list/s/34fba7b2f79f63d63fe59ae56f3f34dc.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -4802,20 +4802,6 @@
         ]
     },
     {
-        "id": "2266817",
-        "channel": "Plymouth Rock TV (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-        "country": "canada",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-08-04T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2266819",
         "channel": "Plymouth Rock TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
@@ -4825,6 +4811,20 @@
         "lastChecked": "2022-08-04T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2266817",
+        "channel": "Plymouth Rock TV (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+        "country": "canada",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-08-04T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "6724",
         "URI": [
             "canada_-_-_-_-_-"
         ]
