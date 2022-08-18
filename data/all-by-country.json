@@ -1,9 +1,9 @@
 {
     "canada": [
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -15,9 +15,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -33,7 +33,7 @@
             "channel": "A Son de Salsa (720p) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/73f4a14bc2ce617cc2e7839e489f0c78.m3u8",
             "country": "canada",
-            "liveliness": "96",
+            "liveliness": "91",
             "status": "offline",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -1401,9 +1401,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1415,9 +1415,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -1433,7 +1433,7 @@
             "channel": "A Son de Salsa (720p) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/73f4a14bc2ce617cc2e7839e489f0c78.m3u8",
             "country": "canada",
-            "liveliness": "96",
+            "liveliness": "91",
             "status": "offline",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -1555,9 +1555,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -1569,9 +1569,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -2805,7 +2805,7 @@
             "channel": "WNET-DT1 (PBS THIRTEEN) (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/ce21352167d72a1e46e32d68e4a71443.m3u8",
             "country": "canada",
-            "liveliness": "93",
+            "liveliness": "94",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -3480,8 +3480,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
-            "format": "sd",
-            "mbps": "1307",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -3529,9 +3529,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3543,9 +3543,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3561,7 +3561,7 @@
             "channel": "A Son de Salsa (720p) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/73f4a14bc2ce617cc2e7839e489f0c78.m3u8",
             "country": "canada",
-            "liveliness": "96",
+            "liveliness": "91",
             "status": "offline",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -3683,9 +3683,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -3697,9 +3697,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -4933,7 +4933,7 @@
             "channel": "WNET-DT1 (PBS THIRTEEN) (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/ce21352167d72a1e46e32d68e4a71443.m3u8",
             "country": "canada",
-            "liveliness": "93",
+            "liveliness": "94",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -5608,8 +5608,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
-            "format": "sd",
-            "mbps": "1307",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -5773,7 +5773,7 @@
             "channel": "PSC Television",
             "link": "https://list.iptvcat.com/my_list/s/c6ffda3373280d1f47f467277b4db306.m3u8",
             "country": "canada",
-            "liveliness": "94",
+            "liveliness": "90",
             "status": "offline",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -5955,7 +5955,7 @@
             "channel": "Red+",
             "link": "https://list.iptvcat.com/my_list/s/ba40a57edec950c83ecd45a5d937513a.m3u8",
             "country": "canada",
-            "liveliness": "93",
+            "liveliness": "94",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -6138,7 +6138,7 @@
             "link": "https://list.iptvcat.com/my_list/s/ad65623f40697d0eb9b3e3d087cfebd3.m3u8",
             "country": "canada",
             "liveliness": "60",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "9546",
@@ -6357,20 +6357,6 @@
             ]
         },
         {
-            "id": "385",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-18T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "canada"
-            ]
-        },
-        {
             "id": "51574",
             "channel": "Tamil Vision TV",
             "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
@@ -6385,11 +6371,25 @@
             ]
         },
         {
+            "id": "385",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-18T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada"
+            ]
+        },
+        {
             "id": "2582191",
             "channel": "Telebocaya [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/926d7e55a2a651c53cbfac03f4a78bc9.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "91",
             "status": "offline",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "sd",
@@ -6487,11 +6487,11 @@
             "channel": "UAO Play",
             "link": "https://list.iptvcat.com/my_list/s/9f2c0f2a212d308514a43b454c98c0b8.m3u8",
             "country": "canada",
-            "liveliness": "93",
-            "status": "offline",
+            "liveliness": "91",
+            "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "5991, ...",
             "URI": [
                 "canada"
             ]
@@ -6630,7 +6630,7 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
-            "format": "hd",
+            "format": "fhd 2k",
             "mbps": "9556, ...",
             "URI": [
                 "canada"
@@ -6711,11 +6711,11 @@
             "channel": "WELL-LD1 (Daystar) (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/087dd591853d75d3e86fba765c1255c0.m3u8",
             "country": "canada",
-            "liveliness": "95",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
-            "format": "sd",
-            "mbps": "1643",
+            "format": "hd",
+            "mbps": "4322, ...",
             "URI": [
                 "canada"
             ]
@@ -7005,7 +7005,7 @@
             "channel": "WMBQ-LD (FNX) (432p)",
             "link": "https://list.iptvcat.com/my_list/s/e6cb9eaf56c5805c8251d36a135a85ca.m3u8",
             "country": "canada",
-            "liveliness": "76",
+            "liveliness": "77",
             "status": "online",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "sd",
@@ -7057,9 +7057,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -7071,9 +7071,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -7089,7 +7089,7 @@
             "channel": "A Son de Salsa (720p) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/73f4a14bc2ce617cc2e7839e489f0c78.m3u8",
             "country": "canada",
-            "liveliness": "96",
+            "liveliness": "91",
             "status": "offline",
             "lastChecked": "2022-08-18T00:00:00Z",
             "format": "hd",
@@ -7211,9 +7211,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -7225,9 +7225,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
