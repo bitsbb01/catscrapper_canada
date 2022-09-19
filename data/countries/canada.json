@@ -1,8 +1,8 @@
 [
     {
-        "id": "361",
+        "id": "360",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -14,9 +14,9 @@
         ]
     },
     {
-        "id": "360",
+        "id": "361",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -144,8 +144,8 @@
         "channel": "Al Arabiya (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3e8c775d24ab6a72e629ade77fa22de8.m3u8",
         "country": "canada",
-        "liveliness": "80",
-        "status": "online",
+        "liveliness": "79",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "370",
@@ -340,7 +340,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
@@ -915,7 +915,7 @@
         "link": "https://list.iptvcat.com/my_list/s/d97bf90dc0e49e10f46585963ba9c281.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -1519,8 +1519,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1547,8 +1547,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1726,7 +1726,7 @@
         "channel": "UAO Play",
         "link": "https://list.iptvcat.com/my_list/s/9f2c0f2a212d308514a43b454c98c0b8.m3u8",
         "country": "canada",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
@@ -1978,8 +1978,8 @@
         "channel": "WELL-LD1 (Daystar) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/087dd591853d75d3e86fba765c1255c0.m3u8",
         "country": "canada",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "93",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -2370,7 +2370,7 @@
         "channel": "WNYJLD (480p)",
         "link": "https://list.iptvcat.com/my_list/s/fc7d0b14e0bf3df95af48794f24a6036.m3u8",
         "country": "canada",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
@@ -2580,8 +2580,8 @@
         "channel": "WPXN-DT2 (Bounce HD)",
         "link": "https://list.iptvcat.com/my_list/s/4a96cc44a466c1e65b1fc970e1b85c31.m3u8",
         "country": "canada",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -2912,9 +2912,9 @@
         ]
     },
     {
-        "id": "361",
+        "id": "360",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -2926,9 +2926,9 @@
         ]
     },
     {
-        "id": "360",
+        "id": "361",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -3056,8 +3056,8 @@
         "channel": "Al Arabiya (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3e8c775d24ab6a72e629ade77fa22de8.m3u8",
         "country": "canada",
-        "liveliness": "80",
-        "status": "online",
+        "liveliness": "79",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "370",
@@ -3252,7 +3252,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
@@ -3827,7 +3827,7 @@
         "link": "https://list.iptvcat.com/my_list/s/d97bf90dc0e49e10f46585963ba9c281.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -4625,7 +4625,7 @@
         "link": "https://list.iptvcat.com/my_list/s/33d0df490043200604bbc2093d7dde92.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -4880,7 +4880,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "6724",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -4894,7 +4894,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "6724",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -5002,7 +5002,7 @@
         "channel": "RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/21630afce0bd85e1353ab0fea5c2033c.m3u8",
         "country": "canada",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
@@ -5048,7 +5048,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -5562,8 +5562,8 @@
         "channel": "TSN 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/88a5ba30bfd9d593f0729f1203378dd2.m3u8",
         "country": "canada",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -5712,9 +5712,9 @@
         ]
     },
     {
-        "id": "361",
+        "id": "360",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -5726,9 +5726,9 @@
         ]
     },
     {
-        "id": "360",
+        "id": "361",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -5856,8 +5856,8 @@
         "channel": "Al Arabiya (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3e8c775d24ab6a72e629ade77fa22de8.m3u8",
         "country": "canada",
-        "liveliness": "80",
-        "status": "online",
+        "liveliness": "79",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "370",
@@ -6052,7 +6052,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
@@ -6627,7 +6627,7 @@
         "link": "https://list.iptvcat.com/my_list/s/d97bf90dc0e49e10f46585963ba9c281.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -7425,7 +7425,7 @@
         "link": "https://list.iptvcat.com/my_list/s/33d0df490043200604bbc2093d7dde92.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -7680,7 +7680,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "6724",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7694,7 +7694,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "6724",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7802,7 +7802,7 @@
         "channel": "RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/21630afce0bd85e1353ab0fea5c2033c.m3u8",
         "country": "canada",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
@@ -7848,7 +7848,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -8362,8 +8362,8 @@
         "channel": "TSN 1 HD",
         "link": "https://list.iptvcat.com/my_list/s/88a5ba30bfd9d593f0729f1203378dd2.m3u8",
         "country": "canada",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -8519,8 +8519,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -8547,8 +8547,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -8726,7 +8726,7 @@
         "channel": "UAO Play",
         "link": "https://list.iptvcat.com/my_list/s/9f2c0f2a212d308514a43b454c98c0b8.m3u8",
         "country": "canada",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
@@ -8978,8 +8978,8 @@
         "channel": "WELL-LD1 (Daystar) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/087dd591853d75d3e86fba765c1255c0.m3u8",
         "country": "canada",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "93",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -9370,7 +9370,7 @@
         "channel": "WNYJLD (480p)",
         "link": "https://list.iptvcat.com/my_list/s/fc7d0b14e0bf3df95af48794f24a6036.m3u8",
         "country": "canada",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
@@ -9580,8 +9580,8 @@
         "channel": "WPXN-DT2 (Bounce HD)",
         "link": "https://list.iptvcat.com/my_list/s/4a96cc44a466c1e65b1fc970e1b85c31.m3u8",
         "country": "canada",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -10550,7 +10550,7 @@
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "hd",
-        "mbps": "3064",
+        "mbps": "4821",
         "URI": [
             "canada"
         ]
@@ -11317,7 +11317,7 @@
         "link": "https://list.iptvcat.com/my_list/s/218f004f4c31d78c1b0accc49de5d2e9.m3u8",
         "country": "canada",
         "liveliness": "100",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -11424,9 +11424,9 @@
         ]
     },
     {
-        "id": "361",
+        "id": "360",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -11438,9 +11438,9 @@
         ]
     },
     {
-        "id": "360",
+        "id": "361",
         "channel": "5AAB TV",
-        "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
         "country": "canada",
         "liveliness": "99",
         "status": "online",
@@ -11568,8 +11568,8 @@
         "channel": "Al Arabiya (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3e8c775d24ab6a72e629ade77fa22de8.m3u8",
         "country": "canada",
-        "liveliness": "80",
-        "status": "online",
+        "liveliness": "79",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "370",
@@ -11764,7 +11764,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "canada",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
@@ -12339,7 +12339,7 @@
         "link": "https://list.iptvcat.com/my_list/s/d97bf90dc0e49e10f46585963ba9c281.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-19T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
