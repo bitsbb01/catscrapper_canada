@@ -1,9 +1,9 @@
 {
     "canada": [
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -15,9 +15,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -341,7 +341,7 @@
             "channel": "BSmart TV (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
             "country": "canada",
-            "liveliness": "71",
+            "liveliness": "73",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
@@ -580,7 +580,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1587eefc9bd5fb9733f601db79553e74.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -1042,7 +1042,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e738ce9f32f29a7931b2b60db92f9ad8.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -1434,7 +1434,7 @@
             "link": "https://list.iptvcat.com/my_list/s/0738d95f74b8ab4fe4d77300b3265650.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -1450,8 +1450,8 @@
             "liveliness": "97",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
+            "format": "hd",
+            "mbps": "3799",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1490,24 +1490,10 @@
             "link": "https://list.iptvcat.com/my_list/s/c8b52471194ae53ecac00466a8a5e35e.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "51574",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1522,6 +1508,20 @@
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "51574",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-21T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1703,7 +1703,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -1854,7 +1854,7 @@
             "link": "https://list.iptvcat.com/my_list/s/6abbc15fa360cd165c50fc2e11551206.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1643",
@@ -2021,8 +2021,8 @@
             "channel": "WJLP-DT2 (Laff)",
             "link": "https://list.iptvcat.com/my_list/s/fded88b400a6c7e1f6e5ff4789feffa3.m3u8",
             "country": "canada",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "99",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1643",
@@ -2899,9 +2899,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -2913,9 +2913,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -3053,9 +3053,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -3067,9 +3067,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -3239,7 +3239,7 @@
             "channel": "BSmart TV (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
             "country": "canada",
-            "liveliness": "71",
+            "liveliness": "73",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
@@ -3478,7 +3478,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1587eefc9bd5fb9733f601db79553e74.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -3940,7 +3940,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e738ce9f32f29a7931b2b60db92f9ad8.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -4486,7 +4486,7 @@
             "link": "https://list.iptvcat.com/my_list/s/457e79cdaa8c777c159792d00fdbb2c7.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -4598,7 +4598,7 @@
             "link": "https://list.iptvcat.com/my_list/s/33d0df490043200604bbc2093d7dde92.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -4654,7 +4654,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b72d1d291a4a0cb5eba9027beb8b2c00.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -4723,11 +4723,11 @@
             "channel": "Novelísima [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/1da8337702b7bd40855fdbb9ac976f69.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8378, ...",
+            "format": "sd",
+            "mbps": "2480, ...",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4845,6 +4845,20 @@
             ]
         },
         {
+            "id": "2266817",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-21T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2266819",
             "channel": "Plymouth Rock TV (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
@@ -4859,23 +4873,9 @@
             ]
         },
         {
-            "id": "2266817",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8378",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "379",
+            "id": "51568",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -4887,9 +4887,9 @@
             ]
         },
         {
-            "id": "51568",
+            "id": "379",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -4923,7 +4923,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "6724",
+            "mbps": "10677",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -4975,7 +4975,7 @@
             "channel": "RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/21630afce0bd85e1353ab0fea5c2033c.m3u8",
             "country": "canada",
-            "liveliness": "83",
+            "liveliness": "81",
             "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
@@ -5063,7 +5063,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
-            "mbps": "4825, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -5077,7 +5077,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -5647,8 +5647,8 @@
             "channel": "TVA Sports 2 HD (FR)",
             "link": "https://list.iptvcat.com/my_list/s/d2acf7337855191011e487d17bd9ade7.m3u8",
             "country": "canada",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "99",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -5699,9 +5699,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -5713,9 +5713,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -5853,9 +5853,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -5867,9 +5867,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -6039,7 +6039,7 @@
             "channel": "BSmart TV (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
             "country": "canada",
-            "liveliness": "71",
+            "liveliness": "73",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
@@ -6278,7 +6278,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1587eefc9bd5fb9733f601db79553e74.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -6740,7 +6740,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e738ce9f32f29a7931b2b60db92f9ad8.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -7286,7 +7286,7 @@
             "link": "https://list.iptvcat.com/my_list/s/457e79cdaa8c777c159792d00fdbb2c7.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -7398,7 +7398,7 @@
             "link": "https://list.iptvcat.com/my_list/s/33d0df490043200604bbc2093d7dde92.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -7454,7 +7454,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b72d1d291a4a0cb5eba9027beb8b2c00.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -7523,11 +7523,11 @@
             "channel": "Novelísima [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/1da8337702b7bd40855fdbb9ac976f69.m3u8",
             "country": "canada",
-            "liveliness": "99",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8378, ...",
+            "format": "sd",
+            "mbps": "2480, ...",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -7645,6 +7645,20 @@
             ]
         },
         {
+            "id": "2266817",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-21T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2266819",
             "channel": "Plymouth Rock TV (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
@@ -7659,23 +7673,9 @@
             ]
         },
         {
-            "id": "2266817",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/600e8687f23cecf97a4969801f3cccbd.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8378",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "379",
+            "id": "51568",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -7687,9 +7687,9 @@
             ]
         },
         {
-            "id": "51568",
+            "id": "379",
             "channel": "Prime Canada TV",
-            "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
             "country": "canada",
             "liveliness": "97",
             "status": "online",
@@ -7723,7 +7723,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "6724",
+            "mbps": "10677",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -7775,7 +7775,7 @@
             "channel": "RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]",
             "link": "https://list.iptvcat.com/my_list/s/21630afce0bd85e1353ab0fea5c2033c.m3u8",
             "country": "canada",
-            "liveliness": "83",
+            "liveliness": "81",
             "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
@@ -7863,7 +7863,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
-            "mbps": "4825, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -7877,7 +7877,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -8447,8 +8447,8 @@
             "channel": "TVA Sports 2 HD (FR)",
             "link": "https://list.iptvcat.com/my_list/s/d2acf7337855191011e487d17bd9ade7.m3u8",
             "country": "canada",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "99",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -8488,20 +8488,6 @@
             "id": "386",
             "channel": "Tamil Vision International, Tamil Vision TV",
             "link": "https://list.iptvcat.com/my_list/s/a24ccb6eb140468621ab517572827df2.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "51574",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -8522,6 +8508,20 @@
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
+            "URI": [
+                "canada_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "51574",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-21T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -8703,7 +8703,7 @@
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "5991",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -8854,7 +8854,7 @@
             "link": "https://list.iptvcat.com/my_list/s/6abbc15fa360cd165c50fc2e11551206.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1643",
@@ -9021,8 +9021,8 @@
             "channel": "WJLP-DT2 (Laff)",
             "link": "https://list.iptvcat.com/my_list/s/fded88b400a6c7e1f6e5ff4789feffa3.m3u8",
             "country": "canada",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "99",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1643",
@@ -9932,7 +9932,7 @@
             "link": "https://list.iptvcat.com/my_list/s/0738d95f74b8ab4fe4d77300b3265650.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -9948,8 +9948,8 @@
             "liveliness": "97",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
+            "format": "hd",
+            "mbps": "3799",
             "URI": [
                 "canada_-_-_-_-_-"
             ]
@@ -9988,7 +9988,7 @@
             "link": "https://list.iptvcat.com/my_list/s/c8b52471194ae53ecac00466a8a5e35e.m3u8",
             "country": "canada",
             "liveliness": "100",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -10030,7 +10030,7 @@
             "link": "https://list.iptvcat.com/my_list/s/b3303e837904966b1b72ea3437a4d848.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -10128,7 +10128,7 @@
             "link": "https://list.iptvcat.com/my_list/s/771b1fb66d4622f936f62a5ec1e4396d.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -10508,8 +10508,8 @@
             "liveliness": "91",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
-            "format": "hd",
-            "mbps": "4825",
+            "format": "sd",
+            "mbps": "1764",
             "URI": [
                 "canada"
             ]
@@ -10953,7 +10953,7 @@
             "channel": "Global (CKWS) Kingston News, ON",
             "link": "https://list.iptvcat.com/my_list/s/0c45b2a4ae484a112cf66017725146bf.m3u8",
             "country": "canada",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "fhd 2k",
@@ -11397,9 +11397,9 @@
             ]
         },
         {
-            "id": "360",
+            "id": "361",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -11411,9 +11411,9 @@
             ]
         },
         {
-            "id": "361",
+            "id": "360",
             "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
             "country": "canada",
             "liveliness": "99",
             "status": "online",
@@ -11551,9 +11551,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -11565,9 +11565,9 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -11737,7 +11737,7 @@
             "channel": "BSmart TV (1080p)",
             "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
             "country": "canada",
-            "liveliness": "71",
+            "liveliness": "73",
             "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
@@ -11976,7 +11976,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1587eefc9bd5fb9733f601db79553e74.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -12438,7 +12438,7 @@
             "link": "https://list.iptvcat.com/my_list/s/e738ce9f32f29a7931b2b60db92f9ad8.m3u8",
             "country": "canada",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-21T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
