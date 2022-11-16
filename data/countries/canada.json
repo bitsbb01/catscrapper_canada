@@ -20,7 +20,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "A\u0026E FHD",
         "link": "https://list.iptvcat.com/my_list/s/1db567e583ade4c7f889591ea9ad7596.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -74,7 +74,7 @@
         "channel": "ABC HD",
         "link": "https://list.iptvcat.com/my_list/s/98b509a7a518d4d3da8e9b2772942946.m3u8",
         "country": "canada",
-        "liveliness": "50",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -102,7 +102,7 @@
         "channel": "ABC SPARK FHD",
         "link": "https://list.iptvcat.com/my_list/s/57ac8e5a6751d5c89e270645a65c30f7.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -146,7 +146,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -271,7 +271,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d0ce2c710c70a5d31a5743d04cadacc.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -326,7 +326,7 @@
         "channel": "Amuse Animation",
         "link": "https://list.iptvcat.com/my_list/s/8bde217d5361ea30e1f22cddf4b8f2db.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -406,9 +406,9 @@
         ]
     },
     {
-        "id": "2605050",
+        "id": "2647476",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -420,9 +420,9 @@
         ]
     },
     {
-        "id": "2647476",
+        "id": "2605050",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -454,23 +454,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648064",
-        "channel": "BBC Toronto Gaunda Punjab",
-        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
-        "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -490,15 +476,29 @@
         ]
     },
     {
+        "id": "2648064",
+        "channel": "BBC Toronto Gaunda Punjab",
+        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
+        "country": "canada",
+        "liveliness": "43",
+        "status": "online",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2648065",
         "channel": "BBC WORLD NEWS HD",
         "link": "https://list.iptvcat.com/my_list/s/e83758458f0aed4d8bb75adf04399a69.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -536,8 +536,8 @@
         "channel": "BEK TV Sports West (720p)",
         "link": "https://list.iptvcat.com/my_list/s/200b7cd3eb77678aee265ef5d415cb5b.m3u8",
         "country": "canada",
-        "liveliness": "91",
-        "status": "offline",
+        "liveliness": "90",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -566,7 +566,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -578,11 +578,11 @@
         "channel": "BNN HD",
         "link": "https://list.iptvcat.com/my_list/s/2412a37ac555fc0f91c3150ba01a6aee.m3u8",
         "country": "canada",
-        "liveliness": "56",
+        "liveliness": "57",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -592,11 +592,11 @@
         "channel": "BOX-OFFICE 1HD",
         "link": "https://list.iptvcat.com/my_list/s/167681dce48e97eea2bd6327e24d3180.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "6648",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -606,11 +606,11 @@
         "channel": "BRAVO HD",
         "link": "https://list.iptvcat.com/my_list/s/51801e713263abcb47e7d072c9334ef2.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -704,8 +704,8 @@
         "channel": "Bloomberg Television",
         "link": "https://list.iptvcat.com/my_list/s/29f5c03f8c698404acaa2b7032ef3a34.m3u8",
         "country": "canada",
-        "liveliness": "50",
-        "status": "online",
+        "liveliness": "49",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -733,7 +733,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a22e4fa3d9bfd488cc3b157030c920cd.m3u8",
         "country": "canada",
         "liveliness": "57",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -746,11 +746,11 @@
         "channel": "Bravo TV FHD",
         "link": "https://list.iptvcat.com/my_list/s/ea68472a18da58578fa69f03c2e131e9.m3u8",
         "country": "canada",
-        "liveliness": "60",
+        "liveliness": "61",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -846,7 +846,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311, ...",
         "URI": [
@@ -914,7 +914,7 @@
         "channel": "CBC CALGARY HD",
         "link": "https://list.iptvcat.com/my_list/s/59ef8479530c01ed2a6f4aec5ec31cd9.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -1026,8 +1026,8 @@
         "channel": "CBC HALIFAX HD",
         "link": "https://list.iptvcat.com/my_list/s/520ed16f920ef1d614f368215b10a8c4.m3u8",
         "country": "canada",
-        "liveliness": "57",
-        "status": "online",
+        "liveliness": "56",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -1042,7 +1042,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -1096,11 +1096,11 @@
         "channel": "CBC News Network HD",
         "link": "https://list.iptvcat.com/my_list/s/2bf2ba2af3c1f7148e88b5eaebcdb80d.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "3799",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1124,9 +1124,9 @@
         "channel": "CBC REGINA HD",
         "link": "https://list.iptvcat.com/my_list/s/c481a0977b4ace412c19f891354307a9.m3u8",
         "country": "canada",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -1152,7 +1152,7 @@
         "channel": "CBC St Johns HD",
         "link": "https://list.iptvcat.com/my_list/s/7474c4d413526b09ee955d4864acc65c.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -1194,11 +1194,11 @@
         "channel": "CBC Toronto (CBLT)",
         "link": "https://list.iptvcat.com/my_list/s/51cdc64d118c5e25578da01b33db7281.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1208,7 +1208,7 @@
         "channel": "CBC VANCOUVER",
         "link": "https://list.iptvcat.com/my_list/s/222e19ac3408bbe7fe5787a87a2e2e06.m3u8",
         "country": "canada",
-        "liveliness": "53",
+        "liveliness": "54",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -1236,11 +1236,11 @@
         "channel": "CBC WINNIPEG HD",
         "link": "https://list.iptvcat.com/my_list/s/8efcb2bbcb65df1f6f6adc0005aad5a3.m3u8",
         "country": "canada",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "sd",
+        "mbps": "3429",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1250,7 +1250,7 @@
         "channel": "CBC West HD",
         "link": "https://list.iptvcat.com/my_list/s/5bea8a1c718b952fcca5ef28ecda7e2a.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -1278,8 +1278,8 @@
         "channel": "CBC Windsor",
         "link": "https://list.iptvcat.com/my_list/s/6d35f3de3774763e50ef918f6a309bcd.m3u8",
         "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
+        "liveliness": "43",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -1334,7 +1334,7 @@
         "channel": "CBC Yellowknife HD",
         "link": "https://list.iptvcat.com/my_list/s/e591453fafb32c8b4a6a2b3cb82fee84.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -1362,9 +1362,9 @@
         "channel": "CHCH FHD",
         "link": "https://list.iptvcat.com/my_list/s/3fce4205a19e865372da6ce275e21cb6.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -1392,7 +1392,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1420,7 +1420,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -1446,9 +1446,9 @@
         "channel": "A\u0026E FHD",
         "link": "https://list.iptvcat.com/my_list/s/1db567e583ade4c7f889591ea9ad7596.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -1474,7 +1474,7 @@
         "channel": "ABC HD",
         "link": "https://list.iptvcat.com/my_list/s/98b509a7a518d4d3da8e9b2772942946.m3u8",
         "country": "canada",
-        "liveliness": "50",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -1502,7 +1502,7 @@
         "channel": "ABC SPARK FHD",
         "link": "https://list.iptvcat.com/my_list/s/57ac8e5a6751d5c89e270645a65c30f7.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -1546,7 +1546,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -1574,7 +1574,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -1588,7 +1588,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
         "URI": [
@@ -1630,7 +1630,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1671,7 +1671,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d0ce2c710c70a5d31a5743d04cadacc.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -1726,7 +1726,7 @@
         "channel": "Amuse Animation",
         "link": "https://list.iptvcat.com/my_list/s/8bde217d5361ea30e1f22cddf4b8f2db.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -1806,9 +1806,9 @@
         ]
     },
     {
-        "id": "2605050",
+        "id": "2647476",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -1820,9 +1820,9 @@
         ]
     },
     {
-        "id": "2647476",
+        "id": "2605050",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -1854,23 +1854,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648064",
-        "channel": "BBC Toronto Gaunda Punjab",
-        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
-        "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1890,15 +1876,29 @@
         ]
     },
     {
+        "id": "2648064",
+        "channel": "BBC Toronto Gaunda Punjab",
+        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
+        "country": "canada",
+        "liveliness": "43",
+        "status": "online",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2648065",
         "channel": "BBC WORLD NEWS HD",
         "link": "https://list.iptvcat.com/my_list/s/e83758458f0aed4d8bb75adf04399a69.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1936,8 +1936,8 @@
         "channel": "BEK TV Sports West (720p)",
         "link": "https://list.iptvcat.com/my_list/s/200b7cd3eb77678aee265ef5d415cb5b.m3u8",
         "country": "canada",
-        "liveliness": "91",
-        "status": "offline",
+        "liveliness": "90",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -1966,7 +1966,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1978,11 +1978,11 @@
         "channel": "BNN HD",
         "link": "https://list.iptvcat.com/my_list/s/2412a37ac555fc0f91c3150ba01a6aee.m3u8",
         "country": "canada",
-        "liveliness": "56",
+        "liveliness": "57",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1992,11 +1992,11 @@
         "channel": "BOX-OFFICE 1HD",
         "link": "https://list.iptvcat.com/my_list/s/167681dce48e97eea2bd6327e24d3180.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "6648",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2006,11 +2006,11 @@
         "channel": "BRAVO HD",
         "link": "https://list.iptvcat.com/my_list/s/51801e713263abcb47e7d072c9334ef2.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2104,8 +2104,8 @@
         "channel": "Bloomberg Television",
         "link": "https://list.iptvcat.com/my_list/s/29f5c03f8c698404acaa2b7032ef3a34.m3u8",
         "country": "canada",
-        "liveliness": "50",
-        "status": "online",
+        "liveliness": "49",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -2133,7 +2133,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a22e4fa3d9bfd488cc3b157030c920cd.m3u8",
         "country": "canada",
         "liveliness": "57",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -2146,11 +2146,11 @@
         "channel": "Bravo TV FHD",
         "link": "https://list.iptvcat.com/my_list/s/ea68472a18da58578fa69f03c2e131e9.m3u8",
         "country": "canada",
-        "liveliness": "60",
+        "liveliness": "61",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2246,7 +2246,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311, ...",
         "URI": [
@@ -2314,7 +2314,7 @@
         "channel": "CBC CALGARY HD",
         "link": "https://list.iptvcat.com/my_list/s/59ef8479530c01ed2a6f4aec5ec31cd9.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -2426,8 +2426,8 @@
         "channel": "CBC HALIFAX HD",
         "link": "https://list.iptvcat.com/my_list/s/520ed16f920ef1d614f368215b10a8c4.m3u8",
         "country": "canada",
-        "liveliness": "57",
-        "status": "online",
+        "liveliness": "56",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -2442,7 +2442,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -2496,11 +2496,11 @@
         "channel": "CBC News Network HD",
         "link": "https://list.iptvcat.com/my_list/s/2bf2ba2af3c1f7148e88b5eaebcdb80d.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "3799",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2524,9 +2524,9 @@
         "channel": "CBC REGINA HD",
         "link": "https://list.iptvcat.com/my_list/s/c481a0977b4ace412c19f891354307a9.m3u8",
         "country": "canada",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -2552,7 +2552,7 @@
         "channel": "CBC St Johns HD",
         "link": "https://list.iptvcat.com/my_list/s/7474c4d413526b09ee955d4864acc65c.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -2594,11 +2594,11 @@
         "channel": "CBC Toronto (CBLT)",
         "link": "https://list.iptvcat.com/my_list/s/51cdc64d118c5e25578da01b33db7281.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2608,7 +2608,7 @@
         "channel": "CBC VANCOUVER",
         "link": "https://list.iptvcat.com/my_list/s/222e19ac3408bbe7fe5787a87a2e2e06.m3u8",
         "country": "canada",
-        "liveliness": "53",
+        "liveliness": "54",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -2636,11 +2636,11 @@
         "channel": "CBC WINNIPEG HD",
         "link": "https://list.iptvcat.com/my_list/s/8efcb2bbcb65df1f6f6adc0005aad5a3.m3u8",
         "country": "canada",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "sd",
+        "mbps": "3429",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2650,7 +2650,7 @@
         "channel": "CBC West HD",
         "link": "https://list.iptvcat.com/my_list/s/5bea8a1c718b952fcca5ef28ecda7e2a.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -2678,8 +2678,8 @@
         "channel": "CBC Windsor",
         "link": "https://list.iptvcat.com/my_list/s/6d35f3de3774763e50ef918f6a309bcd.m3u8",
         "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
+        "liveliness": "43",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -2734,7 +2734,7 @@
         "channel": "CBC Yellowknife HD",
         "link": "https://list.iptvcat.com/my_list/s/e591453fafb32c8b4a6a2b3cb82fee84.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -2762,9 +2762,9 @@
         "channel": "CHCH FHD",
         "link": "https://list.iptvcat.com/my_list/s/3fce4205a19e865372da6ce275e21cb6.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -2792,7 +2792,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2848,7 +2848,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -2904,7 +2904,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -2932,7 +2932,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -2946,9 +2946,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4322",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -2988,9 +2988,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3795, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -3002,7 +3002,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3058,7 +3058,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -3156,7 +3156,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -3226,7 +3226,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -3324,7 +3324,7 @@
         "country": "canada",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3366,7 +3366,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -3422,7 +3422,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3548,7 +3548,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -3618,7 +3618,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -3718,7 +3718,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5991",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -3841,7 +3841,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2504a8bb9d5e8e9112e4d6fc8009eb11.m3u8",
         "country": "canada",
         "liveliness": "91",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -3856,7 +3856,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -3883,7 +3883,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c9ff9cd7d1eb6bc44a1631529bffd245.m3u8",
         "country": "canada",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -3898,7 +3898,7 @@
         "country": "canada",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -3939,7 +3939,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0bd76ac809938b978188f0bbc390153a.m3u8",
         "country": "canada",
         "liveliness": "89",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -3953,7 +3953,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b68942b73317fd0a1188d145fe396d89.m3u8",
         "country": "canada",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -3996,7 +3996,7 @@
         "country": "canada",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -4009,7 +4009,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3dbb8bbbce0331a9028d4014c4ad8136.m3u8",
         "country": "canada",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1531",
@@ -4022,7 +4022,7 @@
         "channel": "WLIW-DT1 (PBS WLIW) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/8d80b55011dcf540759143bcf03d4c65.m3u8",
         "country": "canada",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -4038,7 +4038,7 @@
         "country": "canada",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -4093,7 +4093,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "canada",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -4107,7 +4107,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b8acbd443064ff5eb6e2df6c2f20bd21.m3u8",
         "country": "canada",
         "liveliness": "92",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -4121,7 +4121,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fbac73b4b57aba58263632a25622f218.m3u8",
         "country": "canada",
         "liveliness": "94",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -4150,7 +4150,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
         "URI": [
@@ -4162,9 +4162,9 @@
         "channel": "WNJS-DT2 (NHK WORLD) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "canada",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -4204,8 +4204,8 @@
         "channel": "CITY TV HD",
         "link": "https://list.iptvcat.com/my_list/s/6c7c7b5950f43ae59ef9f5013a049014.m3u8",
         "country": "canada",
-        "liveliness": "59",
-        "status": "offline",
+        "liveliness": "60",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "3429",
@@ -4234,7 +4234,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -4332,7 +4332,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2331",
         "URI": [
@@ -4444,7 +4444,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -4764,7 +4764,7 @@
         "channel": "CablePulse 24",
         "link": "https://list.iptvcat.com/my_list/s/1d7e95409147e3e6e0d291e85e3a94c8.m3u8",
         "country": "canada",
-        "liveliness": "51",
+        "liveliness": "53",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -4922,7 +4922,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4311",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -4948,7 +4948,7 @@
         "country": "canada",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -5018,7 +5018,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5200,7 +5200,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -5284,7 +5284,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5453,8 +5453,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "format": "sd",
+        "mbps": "2283",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -5466,7 +5466,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -5550,7 +5550,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5562,9 +5562,9 @@
         "channel": "EnerGeek Fanpop (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/22a0c3c7da49ce0a7f114af73e9a28ac.m3u8",
         "country": "canada",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -5788,7 +5788,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5844,7 +5844,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -5886,7 +5886,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -5900,7 +5900,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -5996,7 +5996,7 @@
         "channel": "GO-TV CHANNEL (720p)",
         "link": "https://list.iptvcat.com/my_list/s/9891de216489b683a80946681b553148.m3u8",
         "country": "canada",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -6082,7 +6082,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6124,7 +6124,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6152,7 +6152,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6250,7 +6250,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -6264,7 +6264,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -6502,7 +6502,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6642,7 +6642,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1531",
         "URI": [
@@ -6684,7 +6684,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -6768,7 +6768,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -6810,7 +6810,7 @@
         "country": "canada",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -6824,7 +6824,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -6894,7 +6894,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -6908,7 +6908,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -7034,7 +7034,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7070,11 +7070,11 @@
         ]
     },
     {
-        "id": "2582088",
+        "id": "2647219",
         "channel": "Más TV",
-        "link": "https://list.iptvcat.com/my_list/s/fc32db6743ba172a2b3260fb10b2b7ef.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5c3e3dce90342e9f3cc9abb50b160ef7.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -7084,11 +7084,11 @@
         ]
     },
     {
-        "id": "2647219",
+        "id": "2582088",
         "channel": "Más TV",
-        "link": "https://list.iptvcat.com/my_list/s/5c3e3dce90342e9f3cc9abb50b160ef7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/fc32db6743ba172a2b3260fb10b2b7ef.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -7160,7 +7160,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7244,7 +7244,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -7370,7 +7370,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -7426,7 +7426,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -7440,7 +7440,7 @@
         "country": "canada",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -7510,7 +7510,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -7525,8 +7525,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "1018",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7538,7 +7538,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -7574,9 +7574,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -7588,9 +7588,9 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -7636,7 +7636,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6724",
         "URI": [
@@ -7734,7 +7734,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -7748,7 +7748,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -7776,9 +7776,9 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "6730, ...",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7818,9 +7818,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7846,7 +7846,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -7902,9 +7902,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7918,7 +7918,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5997, ...",
+        "mbps": "5020, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7930,9 +7930,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5020, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -7944,7 +7944,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -7988,7 +7988,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "4825, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -8028,7 +8028,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -8042,7 +8042,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -8086,7 +8086,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -8140,7 +8140,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -8168,7 +8168,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -8266,7 +8266,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -8380,7 +8380,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "13873",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -8432,8 +8432,8 @@
         "channel": "WNYW-DT1 (FOX 5) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/43e1fbcf876653f0dc00e97f36234d3e.m3u8",
         "country": "canada",
-        "liveliness": "91",
-        "status": "online",
+        "liveliness": "90",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -8504,7 +8504,7 @@
         "country": "canada",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1531",
         "URI": [
@@ -8518,7 +8518,7 @@
         "country": "canada",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -8559,7 +8559,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7e83c8a1aef31b74a76d44df0dfbd754.m3u8",
         "country": "canada",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -8610,20 +8610,6 @@
         ]
     },
     {
-        "id": "2583780",
-        "channel": "WPXN-DT7 (Newsy)",
-        "link": "https://list.iptvcat.com/my_list/s/ae204ea72746ec1ccb6b4ed1772e5439.m3u8",
-        "country": "canada",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
-        "URI": [
-            "canada"
-        ]
-    },
-    {
         "id": "2583798",
         "channel": "WRNN-DT1 (ShopLC) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/b82181e1b6d428d2b0441d097e748027.m3u8",
@@ -8644,7 +8630,7 @@
         "country": "canada",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -8656,8 +8642,8 @@
         "channel": "WTVE-DT2 (TimelessTV) (432p)",
         "link": "https://list.iptvcat.com/my_list/s/b22f14180baca07e259fd053f38e13d9.m3u8",
         "country": "canada",
-        "liveliness": "96",
-        "status": "online",
+        "liveliness": "95",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -8672,7 +8658,7 @@
         "country": "canada",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
         "URI": [
@@ -8700,7 +8686,7 @@
         "country": "canada",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -8783,7 +8769,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a8410ce1e199a9c84ac7a7af7b7467de.m3u8",
         "country": "canada",
         "liveliness": "88",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
@@ -8812,9 +8798,9 @@
         "country": "canada",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
-        "mbps": "1182",
+        "mbps": "1181",
         "URI": [
             "canada"
         ]
@@ -8840,7 +8826,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -8868,7 +8854,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -8964,7 +8950,7 @@
         "channel": "beIN Sports HD",
         "link": "https://list.iptvcat.com/my_list/s/55aeda3885d2d34429036865ee8621e8.m3u8",
         "country": "canada",
-        "liveliness": "83",
+        "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -9064,7 +9050,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -9120,7 +9106,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -9148,7 +9134,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -9162,9 +9148,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4322",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -9204,9 +9190,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3795, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -9218,7 +9204,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -9274,7 +9260,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -9372,7 +9358,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -9442,7 +9428,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -9540,7 +9526,7 @@
         "country": "canada",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -9582,7 +9568,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -9638,7 +9624,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -9764,7 +9750,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -9834,7 +9820,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -9934,7 +9920,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5991",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -10057,7 +10043,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2504a8bb9d5e8e9112e4d6fc8009eb11.m3u8",
         "country": "canada",
         "liveliness": "91",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -10072,7 +10058,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -10099,7 +10085,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c9ff9cd7d1eb6bc44a1631529bffd245.m3u8",
         "country": "canada",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -10114,7 +10100,7 @@
         "country": "canada",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -10155,7 +10141,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0bd76ac809938b978188f0bbc390153a.m3u8",
         "country": "canada",
         "liveliness": "89",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -10169,7 +10155,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b68942b73317fd0a1188d145fe396d89.m3u8",
         "country": "canada",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -10212,7 +10198,7 @@
         "country": "canada",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -10225,7 +10211,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3dbb8bbbce0331a9028d4014c4ad8136.m3u8",
         "country": "canada",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1531",
@@ -10238,7 +10224,7 @@
         "channel": "WLIW-DT1 (PBS WLIW) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/8d80b55011dcf540759143bcf03d4c65.m3u8",
         "country": "canada",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -10254,7 +10240,7 @@
         "country": "canada",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
         "URI": [
@@ -10309,7 +10295,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "canada",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -10323,7 +10309,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b8acbd443064ff5eb6e2df6c2f20bd21.m3u8",
         "country": "canada",
         "liveliness": "92",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -10337,7 +10323,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fbac73b4b57aba58263632a25622f218.m3u8",
         "country": "canada",
         "liveliness": "94",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -10366,7 +10352,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
         "URI": [
@@ -10378,9 +10364,9 @@
         "channel": "WNJS-DT2 (NHK WORLD) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "canada",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
         "URI": [
@@ -10450,7 +10436,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10486,11 +10472,11 @@
         ]
     },
     {
-        "id": "2582088",
+        "id": "2647219",
         "channel": "Más TV",
-        "link": "https://list.iptvcat.com/my_list/s/fc32db6743ba172a2b3260fb10b2b7ef.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5c3e3dce90342e9f3cc9abb50b160ef7.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -10500,11 +10486,11 @@
         ]
     },
     {
-        "id": "2647219",
+        "id": "2582088",
         "channel": "Más TV",
-        "link": "https://list.iptvcat.com/my_list/s/5c3e3dce90342e9f3cc9abb50b160ef7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/fc32db6743ba172a2b3260fb10b2b7ef.m3u8",
         "country": "canada",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -10576,7 +10562,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10660,7 +10646,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2098",
         "URI": [
@@ -10786,7 +10772,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2334, ...",
         "URI": [
@@ -10842,7 +10828,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -10856,7 +10842,7 @@
         "country": "canada",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
         "URI": [
@@ -10926,7 +10912,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -10941,8 +10927,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "1018",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -10954,7 +10940,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
         "URI": [
@@ -10990,9 +10976,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -11004,9 +10990,9 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -11052,7 +11038,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6724",
         "URI": [
@@ -11150,7 +11136,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -11164,7 +11150,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -11192,9 +11178,9 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
-        "format": "hd",
-        "mbps": "6730, ...",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11234,9 +11220,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11262,7 +11248,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -11318,9 +11304,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11334,7 +11320,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5997, ...",
+        "mbps": "5020, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11346,9 +11332,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5020, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11360,7 +11346,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -11404,7 +11390,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "4825, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11444,7 +11430,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -11458,7 +11444,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4821, ...",
         "URI": [
@@ -11502,7 +11488,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -11556,7 +11542,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -11584,7 +11570,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -11682,7 +11668,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -11796,7 +11782,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "13873",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -12004,7 +11990,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12060,7 +12046,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -12102,7 +12088,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -12116,7 +12102,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12212,7 +12198,7 @@
         "channel": "GO-TV CHANNEL (720p)",
         "link": "https://list.iptvcat.com/my_list/s/9891de216489b683a80946681b553148.m3u8",
         "country": "canada",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -12298,7 +12284,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12340,7 +12326,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12368,7 +12354,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12466,7 +12452,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -12480,7 +12466,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -12718,7 +12704,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -12858,7 +12844,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1531",
         "URI": [
@@ -12900,7 +12886,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -12984,7 +12970,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -13026,7 +13012,7 @@
         "country": "canada",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -13040,7 +13026,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -13110,7 +13096,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -13124,7 +13110,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -13236,7 +13222,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -13262,9 +13248,9 @@
         "channel": "A\u0026E FHD",
         "link": "https://list.iptvcat.com/my_list/s/1db567e583ade4c7f889591ea9ad7596.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -13290,7 +13276,7 @@
         "channel": "ABC HD",
         "link": "https://list.iptvcat.com/my_list/s/98b509a7a518d4d3da8e9b2772942946.m3u8",
         "country": "canada",
-        "liveliness": "50",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -13318,7 +13304,7 @@
         "channel": "ABC SPARK FHD",
         "link": "https://list.iptvcat.com/my_list/s/57ac8e5a6751d5c89e270645a65c30f7.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -13362,7 +13348,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -13390,7 +13376,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -13404,7 +13390,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
         "URI": [
@@ -13446,7 +13432,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -13487,7 +13473,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d0ce2c710c70a5d31a5743d04cadacc.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -13542,7 +13528,7 @@
         "channel": "Amuse Animation",
         "link": "https://list.iptvcat.com/my_list/s/8bde217d5361ea30e1f22cddf4b8f2db.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -13622,9 +13608,9 @@
         ]
     },
     {
-        "id": "2605050",
+        "id": "2647476",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -13636,9 +13622,9 @@
         ]
     },
     {
-        "id": "2647476",
+        "id": "2605050",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -13670,23 +13656,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648064",
-        "channel": "BBC Toronto Gaunda Punjab",
-        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
-        "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -13706,15 +13678,29 @@
         ]
     },
     {
+        "id": "2648064",
+        "channel": "BBC Toronto Gaunda Punjab",
+        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
+        "country": "canada",
+        "liveliness": "43",
+        "status": "online",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2648065",
         "channel": "BBC WORLD NEWS HD",
         "link": "https://list.iptvcat.com/my_list/s/e83758458f0aed4d8bb75adf04399a69.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -13752,8 +13738,8 @@
         "channel": "BEK TV Sports West (720p)",
         "link": "https://list.iptvcat.com/my_list/s/200b7cd3eb77678aee265ef5d415cb5b.m3u8",
         "country": "canada",
-        "liveliness": "91",
-        "status": "offline",
+        "liveliness": "90",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -13782,7 +13768,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -13794,11 +13780,11 @@
         "channel": "BNN HD",
         "link": "https://list.iptvcat.com/my_list/s/2412a37ac555fc0f91c3150ba01a6aee.m3u8",
         "country": "canada",
-        "liveliness": "56",
+        "liveliness": "57",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -13808,11 +13794,11 @@
         "channel": "BOX-OFFICE 1HD",
         "link": "https://list.iptvcat.com/my_list/s/167681dce48e97eea2bd6327e24d3180.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "6648",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -13822,11 +13808,11 @@
         "channel": "BRAVO HD",
         "link": "https://list.iptvcat.com/my_list/s/51801e713263abcb47e7d072c9334ef2.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -13920,8 +13906,8 @@
         "channel": "Bloomberg Television",
         "link": "https://list.iptvcat.com/my_list/s/29f5c03f8c698404acaa2b7032ef3a34.m3u8",
         "country": "canada",
-        "liveliness": "50",
-        "status": "online",
+        "liveliness": "49",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -13949,7 +13935,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a22e4fa3d9bfd488cc3b157030c920cd.m3u8",
         "country": "canada",
         "liveliness": "57",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -13962,11 +13948,11 @@
         "channel": "Bravo TV FHD",
         "link": "https://list.iptvcat.com/my_list/s/ea68472a18da58578fa69f03c2e131e9.m3u8",
         "country": "canada",
-        "liveliness": "60",
+        "liveliness": "61",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -14062,7 +14048,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311, ...",
         "URI": [
@@ -14130,7 +14116,7 @@
         "channel": "CBC CALGARY HD",
         "link": "https://list.iptvcat.com/my_list/s/59ef8479530c01ed2a6f4aec5ec31cd9.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -14242,8 +14228,8 @@
         "channel": "CBC HALIFAX HD",
         "link": "https://list.iptvcat.com/my_list/s/520ed16f920ef1d614f368215b10a8c4.m3u8",
         "country": "canada",
-        "liveliness": "57",
-        "status": "online",
+        "liveliness": "56",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -14258,7 +14244,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -14312,11 +14298,11 @@
         "channel": "CBC News Network HD",
         "link": "https://list.iptvcat.com/my_list/s/2bf2ba2af3c1f7148e88b5eaebcdb80d.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "3799",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -14340,9 +14326,9 @@
         "channel": "CBC REGINA HD",
         "link": "https://list.iptvcat.com/my_list/s/c481a0977b4ace412c19f891354307a9.m3u8",
         "country": "canada",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -14368,7 +14354,7 @@
         "channel": "CBC St Johns HD",
         "link": "https://list.iptvcat.com/my_list/s/7474c4d413526b09ee955d4864acc65c.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -14410,11 +14396,11 @@
         "channel": "CBC Toronto (CBLT)",
         "link": "https://list.iptvcat.com/my_list/s/51cdc64d118c5e25578da01b33db7281.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -14424,7 +14410,7 @@
         "channel": "CBC VANCOUVER",
         "link": "https://list.iptvcat.com/my_list/s/222e19ac3408bbe7fe5787a87a2e2e06.m3u8",
         "country": "canada",
-        "liveliness": "53",
+        "liveliness": "54",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -14452,11 +14438,11 @@
         "channel": "CBC WINNIPEG HD",
         "link": "https://list.iptvcat.com/my_list/s/8efcb2bbcb65df1f6f6adc0005aad5a3.m3u8",
         "country": "canada",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "sd",
+        "mbps": "3429",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -14466,7 +14452,7 @@
         "channel": "CBC West HD",
         "link": "https://list.iptvcat.com/my_list/s/5bea8a1c718b952fcca5ef28ecda7e2a.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -14494,8 +14480,8 @@
         "channel": "CBC Windsor",
         "link": "https://list.iptvcat.com/my_list/s/6d35f3de3774763e50ef918f6a309bcd.m3u8",
         "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
+        "liveliness": "43",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -14550,7 +14536,7 @@
         "channel": "CBC Yellowknife HD",
         "link": "https://list.iptvcat.com/my_list/s/e591453fafb32c8b4a6a2b3cb82fee84.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -14578,9 +14564,9 @@
         "channel": "CHCH FHD",
         "link": "https://list.iptvcat.com/my_list/s/3fce4205a19e865372da6ce275e21cb6.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -14608,7 +14594,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14620,8 +14606,8 @@
         "channel": "CITY TV HD",
         "link": "https://list.iptvcat.com/my_list/s/6c7c7b5950f43ae59ef9f5013a049014.m3u8",
         "country": "canada",
-        "liveliness": "59",
-        "status": "offline",
+        "liveliness": "60",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "3429",
@@ -14650,7 +14636,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14748,7 +14734,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2331",
         "URI": [
@@ -14860,7 +14846,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -15180,7 +15166,7 @@
         "channel": "CablePulse 24",
         "link": "https://list.iptvcat.com/my_list/s/1d7e95409147e3e6e0d291e85e3a94c8.m3u8",
         "country": "canada",
-        "liveliness": "51",
+        "liveliness": "53",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -15338,7 +15324,7 @@
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "4311",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -15364,7 +15350,7 @@
         "country": "canada",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -15434,7 +15420,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -15616,7 +15602,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -15700,7 +15686,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -15869,8 +15855,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "format": "sd",
+        "mbps": "2283",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -15882,7 +15868,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
@@ -15966,7 +15952,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -15978,9 +15964,9 @@
         "channel": "EnerGeek Fanpop (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/22a0c3c7da49ce0a7f114af73e9a28ac.m3u8",
         "country": "canada",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "liveliness": "85",
+        "status": "offline",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -16036,7 +16022,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -16062,9 +16048,9 @@
         "channel": "A\u0026E FHD",
         "link": "https://list.iptvcat.com/my_list/s/1db567e583ade4c7f889591ea9ad7596.m3u8",
         "country": "canada",
-        "liveliness": "69",
+        "liveliness": "70",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -16090,7 +16076,7 @@
         "channel": "ABC HD",
         "link": "https://list.iptvcat.com/my_list/s/98b509a7a518d4d3da8e9b2772942946.m3u8",
         "country": "canada",
-        "liveliness": "50",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -16118,7 +16104,7 @@
         "channel": "ABC SPARK FHD",
         "link": "https://list.iptvcat.com/my_list/s/57ac8e5a6751d5c89e270645a65c30f7.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -16162,7 +16148,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -16190,7 +16176,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -16204,7 +16190,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2740, ...",
         "URI": [
@@ -16246,7 +16232,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -16287,7 +16273,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d0ce2c710c70a5d31a5743d04cadacc.m3u8",
         "country": "canada",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -16342,7 +16328,7 @@
         "channel": "Amuse Animation",
         "link": "https://list.iptvcat.com/my_list/s/8bde217d5361ea30e1f22cddf4b8f2db.m3u8",
         "country": "canada",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -16422,9 +16408,9 @@
         ]
     },
     {
-        "id": "2605050",
+        "id": "2647476",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -16436,9 +16422,9 @@
         ]
     },
     {
-        "id": "2647476",
+        "id": "2605050",
         "channel": "BBC Drama",
-        "link": "https://list.iptvcat.com/my_list/s/3ea08ae2c26dfe7f4baeee3d09542d1e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/42091c8d4822e93bf9b46c30e23ad784.m3u8",
         "country": "canada",
         "liveliness": "100",
         "status": "online",
@@ -16470,23 +16456,9 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
-        "URI": [
-            "canada_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2648064",
-        "channel": "BBC Toronto Gaunda Punjab",
-        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
-        "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
-        "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -16506,15 +16478,29 @@
         ]
     },
     {
+        "id": "2648064",
+        "channel": "BBC Toronto Gaunda Punjab",
+        "link": "https://list.iptvcat.com/my_list/s/26ad2edadf848a6f9a017f5eeb131863.m3u8",
+        "country": "canada",
+        "liveliness": "43",
+        "status": "online",
+        "lastChecked": "2022-11-16T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "canada_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2648065",
         "channel": "BBC WORLD NEWS HD",
         "link": "https://list.iptvcat.com/my_list/s/e83758458f0aed4d8bb75adf04399a69.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "format": "sd",
+        "mbps": "2308",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -16552,8 +16538,8 @@
         "channel": "BEK TV Sports West (720p)",
         "link": "https://list.iptvcat.com/my_list/s/200b7cd3eb77678aee265ef5d415cb5b.m3u8",
         "country": "canada",
-        "liveliness": "91",
-        "status": "offline",
+        "liveliness": "90",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -16582,7 +16568,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -16594,11 +16580,11 @@
         "channel": "BNN HD",
         "link": "https://list.iptvcat.com/my_list/s/2412a37ac555fc0f91c3150ba01a6aee.m3u8",
         "country": "canada",
-        "liveliness": "56",
+        "liveliness": "57",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -16608,11 +16594,11 @@
         "channel": "BOX-OFFICE 1HD",
         "link": "https://list.iptvcat.com/my_list/s/167681dce48e97eea2bd6327e24d3180.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "sd",
-        "mbps": "6648",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -16622,11 +16608,11 @@
         "channel": "BRAVO HD",
         "link": "https://list.iptvcat.com/my_list/s/51801e713263abcb47e7d072c9334ef2.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -16720,8 +16706,8 @@
         "channel": "Bloomberg Television",
         "link": "https://list.iptvcat.com/my_list/s/29f5c03f8c698404acaa2b7032ef3a34.m3u8",
         "country": "canada",
-        "liveliness": "50",
-        "status": "online",
+        "liveliness": "49",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -16749,7 +16735,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a22e4fa3d9bfd488cc3b157030c920cd.m3u8",
         "country": "canada",
         "liveliness": "57",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -16762,11 +16748,11 @@
         "channel": "Bravo TV FHD",
         "link": "https://list.iptvcat.com/my_list/s/ea68472a18da58578fa69f03c2e131e9.m3u8",
         "country": "canada",
-        "liveliness": "60",
+        "liveliness": "61",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -16862,7 +16848,7 @@
         "country": "canada",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311, ...",
         "URI": [
@@ -16930,7 +16916,7 @@
         "channel": "CBC CALGARY HD",
         "link": "https://list.iptvcat.com/my_list/s/59ef8479530c01ed2a6f4aec5ec31cd9.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -17042,8 +17028,8 @@
         "channel": "CBC HALIFAX HD",
         "link": "https://list.iptvcat.com/my_list/s/520ed16f920ef1d614f368215b10a8c4.m3u8",
         "country": "canada",
-        "liveliness": "57",
-        "status": "online",
+        "liveliness": "56",
+        "status": "offline",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -17058,7 +17044,7 @@
         "country": "canada",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
         "URI": [
@@ -17112,11 +17098,11 @@
         "channel": "CBC News Network HD",
         "link": "https://list.iptvcat.com/my_list/s/2bf2ba2af3c1f7148e88b5eaebcdb80d.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "3799",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -17140,9 +17126,9 @@
         "channel": "CBC REGINA HD",
         "link": "https://list.iptvcat.com/my_list/s/c481a0977b4ace412c19f891354307a9.m3u8",
         "country": "canada",
-        "liveliness": "72",
+        "liveliness": "73",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -17168,7 +17154,7 @@
         "channel": "CBC St Johns HD",
         "link": "https://list.iptvcat.com/my_list/s/7474c4d413526b09ee955d4864acc65c.m3u8",
         "country": "canada",
-        "liveliness": "67",
+        "liveliness": "68",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -17210,11 +17196,11 @@
         "channel": "CBC Toronto (CBLT)",
         "link": "https://list.iptvcat.com/my_list/s/51cdc64d118c5e25578da01b33db7281.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -17224,7 +17210,7 @@
         "channel": "CBC VANCOUVER",
         "link": "https://list.iptvcat.com/my_list/s/222e19ac3408bbe7fe5787a87a2e2e06.m3u8",
         "country": "canada",
-        "liveliness": "53",
+        "liveliness": "54",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
@@ -17252,11 +17238,11 @@
         "channel": "CBC WINNIPEG HD",
         "link": "https://list.iptvcat.com/my_list/s/8efcb2bbcb65df1f6f6adc0005aad5a3.m3u8",
         "country": "canada",
-        "liveliness": "59",
+        "liveliness": "60",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
+        "format": "sd",
+        "mbps": "3429",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -17266,7 +17252,7 @@
         "channel": "CBC West HD",
         "link": "https://list.iptvcat.com/my_list/s/5bea8a1c718b952fcca5ef28ecda7e2a.m3u8",
         "country": "canada",
-        "liveliness": "77",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -17294,8 +17280,8 @@
         "channel": "CBC Windsor",
         "link": "https://list.iptvcat.com/my_list/s/6d35f3de3774763e50ef918f6a309bcd.m3u8",
         "country": "canada",
-        "liveliness": "41",
-        "status": "offline",
+        "liveliness": "43",
+        "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
@@ -17350,7 +17336,7 @@
         "channel": "CBC Yellowknife HD",
         "link": "https://list.iptvcat.com/my_list/s/e591453fafb32c8b4a6a2b3cb82fee84.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
         "lastChecked": "2022-11-16T00:00:00Z",
         "format": "hd",
@@ -17378,9 +17364,9 @@
         "channel": "CHCH FHD",
         "link": "https://list.iptvcat.com/my_list/s/3fce4205a19e865372da6ce275e21cb6.m3u8",
         "country": "canada",
-        "liveliness": "62",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -17408,7 +17394,7 @@
         "country": "canada",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-11-15T00:00:00Z",
+        "lastChecked": "2022-11-16T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
