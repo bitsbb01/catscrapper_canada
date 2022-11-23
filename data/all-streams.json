@@ -411,7 +411,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f266b00b0876211d79bf6e8170894f75.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-23T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -1422,7 +1422,7 @@
         "status": "online",
         "lastChecked": "2022-11-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "13873",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1604,7 +1604,7 @@
         "status": "online",
         "lastChecked": "2022-11-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "6724",
         "URI": [
             "canada_-_-_-_-_-"
         ]
@@ -1624,9 +1624,9 @@
         ]
     },
     {
-        "id": "51568",
+        "id": "379",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -1638,9 +1638,9 @@
         ]
     },
     {
-        "id": "379",
+        "id": "51568",
         "channel": "Prime Canada TV",
-        "link": "https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/de2131a5ccf1faa578aa68bb63437e7a.m3u8",
         "country": "canada",
         "liveliness": "97",
         "status": "online",
@@ -3029,7 +3029,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f266b00b0876211d79bf6e8170894f75.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-23T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
@@ -5829,7 +5829,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f266b00b0876211d79bf6e8170894f75.m3u8",
         "country": "canada",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-11-23T00:00:00Z",
         "format": "sd",
         "mbps": "1736",
