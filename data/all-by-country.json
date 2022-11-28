@@ -1,20 +1,6 @@
 {
     "canada": [
         {
-            "id": "360",
-            "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
-            "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "361",
             "channel": "5AAB TV",
             "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
@@ -25,7 +11,21 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
+            ]
+        },
+        {
+            "id": "360",
+            "channel": "5AAB TV",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "country": "canada",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-11-28T00:00:00Z",
+            "format": "hd",
+            "mbps": "4318",
+            "URI": [
+                "canada__1"
             ]
         },
         {
@@ -35,11 +35,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -53,7 +53,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -63,11 +63,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -81,7 +81,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -91,11 +91,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -105,11 +105,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -123,7 +123,7 @@
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -133,11 +133,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -147,11 +147,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -165,7 +165,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -175,11 +175,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -193,7 +193,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -203,11 +203,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -217,11 +217,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -235,7 +235,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -245,11 +245,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -263,7 +263,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -273,11 +273,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -287,11 +287,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -301,11 +301,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -319,7 +319,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -329,11 +329,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -347,7 +347,7 @@
             "format": "sd",
             "mbps": "1760",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -357,11 +357,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -371,11 +371,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -385,11 +385,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -399,11 +399,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -413,11 +413,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -427,11 +427,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -445,7 +445,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -459,7 +459,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -469,11 +469,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -483,11 +483,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -497,11 +497,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -515,7 +515,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -529,7 +529,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -539,11 +539,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -553,11 +553,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -567,11 +567,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -581,11 +581,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -595,11 +595,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -609,11 +609,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -623,11 +623,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -637,11 +637,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -655,7 +655,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -665,11 +665,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -679,11 +679,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -693,11 +693,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -707,11 +707,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -725,7 +725,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -735,11 +735,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -753,7 +753,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -767,7 +767,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -777,11 +777,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -791,11 +791,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -805,11 +805,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -823,7 +823,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -837,7 +837,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -847,11 +847,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -861,11 +861,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -875,11 +875,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -893,7 +893,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -903,11 +903,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -917,11 +917,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -931,11 +931,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -949,7 +949,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -963,7 +963,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -973,11 +973,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -987,11 +987,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1001,11 +1001,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1019,7 +1019,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1029,11 +1029,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1043,11 +1043,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1057,11 +1057,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1071,11 +1071,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1085,11 +1085,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1099,11 +1099,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1117,7 +1117,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1127,11 +1127,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1145,7 +1145,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1155,11 +1155,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1169,11 +1169,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1187,7 +1187,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1197,11 +1197,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1211,11 +1211,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1229,7 +1229,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1239,11 +1239,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1257,7 +1257,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1271,7 +1271,7 @@
             "format": "hd",
             "mbps": "7114",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1285,7 +1285,7 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1299,7 +1299,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1309,11 +1309,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1323,11 +1323,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1337,11 +1337,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1355,7 +1355,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1365,11 +1365,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1383,7 +1383,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1393,11 +1393,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1411,7 +1411,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1421,11 +1421,11 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1439,7 +1439,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1453,7 +1453,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1463,11 +1463,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1481,7 +1481,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1491,11 +1491,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1509,7 +1509,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1519,11 +1519,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1537,7 +1537,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1547,11 +1547,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1565,7 +1565,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1575,11 +1575,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1589,25 +1589,11 @@
             "country": "canada",
             "liveliness": "96",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
             "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266819",
-            "channel": "Plymouth Rock TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1621,7 +1607,21 @@
             "format": "fhd 2k",
             "mbps": "8370",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
+            ]
+        },
+        {
+            "id": "2266819",
+            "channel": "Plymouth Rock TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/d40be8bb40e8a1c1e572a009e9140b5d.m3u8",
+            "country": "canada",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-11-28T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada__1"
             ]
         },
         {
@@ -1631,11 +1631,11 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1645,11 +1645,11 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1659,11 +1659,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1677,7 +1677,7 @@
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1691,7 +1691,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1705,7 +1705,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1715,11 +1715,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1733,7 +1733,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1743,11 +1743,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1761,7 +1761,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1771,11 +1771,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1785,11 +1785,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1799,11 +1799,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "9546",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1813,11 +1813,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1827,11 +1827,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1845,7 +1845,7 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1859,7 +1859,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1869,11 +1869,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1883,11 +1883,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1897,11 +1897,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1911,11 +1911,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1929,7 +1929,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1939,11 +1939,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1957,7 +1957,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1967,11 +1967,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1985,7 +1985,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -1995,11 +1995,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2009,11 +2009,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2027,7 +2027,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2037,11 +2037,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2051,11 +2051,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2069,7 +2069,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2083,7 +2083,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2093,11 +2093,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2107,11 +2107,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2125,7 +2125,7 @@
             "format": "hd",
             "mbps": "3625",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2135,11 +2135,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2149,11 +2149,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2167,7 +2167,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2181,7 +2181,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2191,11 +2191,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2205,11 +2205,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2223,7 +2223,7 @@
             "format": "fhd 2k",
             "mbps": "8370",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2237,7 +2237,7 @@
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2251,7 +2251,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2265,7 +2265,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2275,11 +2275,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2289,11 +2289,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2307,7 +2307,7 @@
             "format": "sd",
             "mbps": "3429",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2317,11 +2317,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2331,11 +2331,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2345,11 +2345,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2359,11 +2359,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2377,7 +2377,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2391,7 +2391,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2405,7 +2405,7 @@
             "format": "fhd 2k",
             "mbps": "8370, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2419,7 +2419,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2429,11 +2429,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2447,7 +2447,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2461,7 +2461,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2471,11 +2471,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2485,11 +2485,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2499,11 +2499,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2513,11 +2513,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2527,11 +2527,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2541,11 +2541,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2555,11 +2555,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2573,7 +2573,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2583,11 +2583,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2597,11 +2597,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2611,25 +2611,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "360",
-            "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
-            "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2643,7 +2629,21 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
+            ]
+        },
+        {
+            "id": "360",
+            "channel": "5AAB TV",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "country": "canada",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-11-28T00:00:00Z",
+            "format": "hd",
+            "mbps": "4318",
+            "URI": [
+                "canada__1"
             ]
         },
         {
@@ -2653,11 +2653,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2671,7 +2671,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2681,11 +2681,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2699,7 +2699,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2709,11 +2709,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2723,11 +2723,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2741,7 +2741,7 @@
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2751,11 +2751,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2765,11 +2765,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2783,7 +2783,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2793,11 +2793,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2811,7 +2811,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2821,11 +2821,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2835,11 +2835,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2853,7 +2853,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2863,11 +2863,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2881,7 +2881,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2891,11 +2891,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2905,11 +2905,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2919,11 +2919,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2937,7 +2937,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2947,11 +2947,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2965,7 +2965,7 @@
             "format": "sd",
             "mbps": "1760",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2975,11 +2975,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -2989,11 +2989,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3003,11 +3003,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3017,11 +3017,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3031,11 +3031,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3045,11 +3045,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3063,7 +3063,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3077,7 +3077,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3087,11 +3087,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3101,11 +3101,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3115,11 +3115,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3133,7 +3133,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3147,7 +3147,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3157,11 +3157,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3171,11 +3171,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3185,11 +3185,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3199,11 +3199,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3213,11 +3213,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3227,11 +3227,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3241,11 +3241,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3255,11 +3255,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3273,7 +3273,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3283,11 +3283,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3297,11 +3297,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3311,11 +3311,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3325,11 +3325,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3343,7 +3343,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3353,11 +3353,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3371,7 +3371,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3385,7 +3385,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3395,11 +3395,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3409,11 +3409,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3423,11 +3423,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3441,7 +3441,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3455,7 +3455,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3465,11 +3465,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3479,11 +3479,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3493,11 +3493,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3511,7 +3511,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3521,11 +3521,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3535,11 +3535,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3549,11 +3549,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3567,7 +3567,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3581,7 +3581,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3591,11 +3591,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3605,11 +3605,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3619,11 +3619,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3637,7 +3637,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3647,11 +3647,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3661,11 +3661,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3675,11 +3675,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3689,11 +3689,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3703,11 +3703,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3717,11 +3717,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3735,7 +3735,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3745,11 +3745,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3763,7 +3763,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3773,11 +3773,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3787,11 +3787,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3805,7 +3805,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3815,11 +3815,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3829,11 +3829,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3847,7 +3847,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3857,11 +3857,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3875,7 +3875,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3889,7 +3889,7 @@
             "format": "hd",
             "mbps": "7114",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3903,7 +3903,7 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3917,7 +3917,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3927,11 +3927,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3941,11 +3941,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3955,11 +3955,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3973,7 +3973,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -3983,11 +3983,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4001,7 +4001,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4011,11 +4011,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4025,11 +4025,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4039,11 +4039,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4057,7 +4057,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4071,7 +4071,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4085,7 +4085,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4099,7 +4099,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4109,11 +4109,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4123,11 +4123,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4137,11 +4137,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4151,11 +4151,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4169,7 +4169,7 @@
             "format": "hd",
             "mbps": "3625",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4183,7 +4183,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4197,7 +4197,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4207,11 +4207,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4221,11 +4221,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4235,11 +4235,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4249,11 +4249,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4263,11 +4263,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4281,7 +4281,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4291,11 +4291,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4309,7 +4309,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4319,11 +4319,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4333,25 +4333,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2266791",
-            "channel": "Doyel TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
-            "country": "canada",
-            "liveliness": "98",
-            "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
-            "format": "hd",
-            "mbps": "3625",
-            "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4365,7 +4351,21 @@
             "format": "hd",
             "mbps": "3625",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
+            ]
+        },
+        {
+            "id": "2266791",
+            "channel": "Doyel TV (720p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/e729154c1573b24b79e5df907fc9c827.m3u8",
+            "country": "canada",
+            "liveliness": "98",
+            "status": "online",
+            "lastChecked": "2022-11-28T00:00:00Z",
+            "format": "hd",
+            "mbps": "3625",
+            "URI": [
+                "canada__1"
             ]
         },
         {
@@ -4379,7 +4379,7 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4393,7 +4393,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4403,11 +4403,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4417,11 +4417,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "6724",
+            "lastChecked": "2022-11-28T00:00:00Z",
+            "format": "sd",
+            "mbps": "136",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4431,11 +4431,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4445,11 +4445,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4463,7 +4463,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4473,11 +4473,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4487,11 +4487,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4501,11 +4501,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4515,11 +4515,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4529,11 +4529,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4543,11 +4543,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4557,11 +4557,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4571,11 +4571,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4585,11 +4585,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4603,7 +4603,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4613,11 +4613,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4627,11 +4627,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4645,7 +4645,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4655,11 +4655,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4673,7 +4673,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4683,11 +4683,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4697,11 +4697,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4715,7 +4715,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4725,11 +4725,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4739,11 +4739,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4757,7 +4757,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4767,11 +4767,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4781,11 +4781,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4799,7 +4799,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4813,7 +4813,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4823,11 +4823,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4837,11 +4837,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4855,7 +4855,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4869,7 +4869,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4879,11 +4879,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4893,11 +4893,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4911,7 +4911,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4925,7 +4925,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4935,11 +4935,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4953,7 +4953,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4963,11 +4963,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4977,11 +4977,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -4995,7 +4995,7 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5005,11 +5005,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5019,11 +5019,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5037,7 +5037,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5047,11 +5047,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5061,11 +5061,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5075,11 +5075,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5089,11 +5089,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5103,11 +5103,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5117,11 +5117,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5131,11 +5131,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5145,11 +5145,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5159,11 +5159,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5173,11 +5173,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5187,11 +5187,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1760",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5201,11 +5201,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5215,11 +5215,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5229,11 +5229,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5243,11 +5243,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5261,7 +5261,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5271,11 +5271,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5285,11 +5285,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5303,7 +5303,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5313,11 +5313,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5327,11 +5327,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5341,11 +5341,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5355,11 +5355,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5369,11 +5369,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5383,11 +5383,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5397,11 +5397,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5415,21 +5415,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "360",
-            "channel": "5AAB TV",
-            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
-            "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
-            "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5443,7 +5429,21 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
+            ]
+        },
+        {
+            "id": "360",
+            "channel": "5AAB TV",
+            "link": "https://list.iptvcat.com/my_list/s/1719095341f82cdfa620749e156553cc.m3u8",
+            "country": "canada",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-11-28T00:00:00Z",
+            "format": "hd",
+            "mbps": "4318",
+            "URI": [
+                "canada__1"
             ]
         },
         {
@@ -5453,11 +5453,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5471,7 +5471,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5481,11 +5481,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5499,7 +5499,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5509,11 +5509,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5523,11 +5523,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5541,7 +5541,7 @@
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5551,11 +5551,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5565,11 +5565,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5583,7 +5583,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5593,11 +5593,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5611,7 +5611,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5621,11 +5621,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5635,11 +5635,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5653,7 +5653,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5663,11 +5663,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5681,7 +5681,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5691,11 +5691,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5705,11 +5705,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5719,11 +5719,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5737,7 +5737,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5747,11 +5747,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5765,7 +5765,7 @@
             "format": "sd",
             "mbps": "1760",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5775,11 +5775,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5789,11 +5789,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5803,11 +5803,11 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5817,11 +5817,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5831,11 +5831,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5845,11 +5845,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5863,7 +5863,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5877,7 +5877,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5887,11 +5887,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5901,11 +5901,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5915,11 +5915,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5933,7 +5933,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5947,7 +5947,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5957,11 +5957,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5971,11 +5971,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5985,11 +5985,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -5999,11 +5999,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6013,11 +6013,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6027,11 +6027,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6041,11 +6041,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6055,11 +6055,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6073,7 +6073,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6083,11 +6083,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6097,11 +6097,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6111,11 +6111,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6125,11 +6125,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6143,7 +6143,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6153,11 +6153,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6171,7 +6171,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6185,7 +6185,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6195,11 +6195,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6209,11 +6209,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6223,11 +6223,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6241,7 +6241,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6255,7 +6255,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6265,11 +6265,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6279,11 +6279,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6293,11 +6293,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6311,7 +6311,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6321,11 +6321,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6335,11 +6335,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6349,11 +6349,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6367,7 +6367,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6381,7 +6381,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6391,11 +6391,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6405,11 +6405,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6419,11 +6419,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6437,7 +6437,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6447,11 +6447,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6461,11 +6461,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6475,11 +6475,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6489,11 +6489,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6503,11 +6503,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6517,11 +6517,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6535,7 +6535,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6545,11 +6545,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6563,7 +6563,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6573,11 +6573,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6587,11 +6587,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6605,7 +6605,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6615,11 +6615,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6629,11 +6629,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6647,7 +6647,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6657,11 +6657,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6675,7 +6675,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6689,7 +6689,7 @@
             "format": "hd",
             "mbps": "7114",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6703,7 +6703,7 @@
             "format": "hd",
             "mbps": "4318",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6717,7 +6717,7 @@
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6727,11 +6727,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6741,11 +6741,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6755,11 +6755,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6773,7 +6773,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6783,11 +6783,11 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6801,7 +6801,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         },
         {
@@ -6811,11 +6811,11 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-11-27T00:00:00Z",
+            "lastChecked": "2022-11-28T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
-                "canada_-_-_-_-_-"
+                "canada__1"
             ]
         }
     ]
