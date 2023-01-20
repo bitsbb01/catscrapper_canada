@@ -7,7 +7,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -21,7 +21,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -35,7 +35,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -49,7 +49,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -63,7 +63,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -77,7 +77,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -91,7 +91,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -127,13 +127,13 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
@@ -175,7 +175,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -189,7 +189,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -203,7 +203,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
@@ -217,7 +217,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -231,7 +231,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -273,7 +273,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -287,7 +287,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -301,7 +301,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -329,7 +329,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -357,7 +357,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -371,7 +371,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -411,9 +411,9 @@
             "channel": "CANAL D",
             "link": "https://list.iptvcat.com/my_list/s/661eea8e91d6848f679d2dea18d4757b.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "6730",
             "URI": [
@@ -425,9 +425,9 @@
             "channel": "CASA",
             "link": "https://list.iptvcat.com/my_list/s/ec793883fc54d5a4c791372158c25928.m3u8",
             "country": "canada",
-            "liveliness": "39",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "38",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -441,7 +441,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -455,7 +455,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -469,7 +469,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -483,7 +483,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -497,7 +497,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -511,7 +511,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -539,7 +539,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -567,7 +567,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -595,7 +595,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -609,7 +609,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -637,7 +637,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -665,7 +665,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -693,7 +693,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -707,7 +707,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -721,7 +721,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -735,7 +735,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -749,7 +749,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -763,7 +763,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -777,7 +777,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -791,7 +791,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -817,9 +817,9 @@
             "channel": "CP24",
             "link": "https://list.iptvcat.com/my_list/s/9dfa7ce4c9c7cb9de3919d09a3aa7947.m3u8",
             "country": "canada",
-            "liveliness": "36",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "34",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "3424",
             "URI": [
@@ -833,7 +833,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -847,7 +847,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -861,7 +861,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -875,7 +875,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -889,7 +889,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -903,7 +903,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -917,7 +917,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -931,7 +931,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -945,7 +945,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -987,7 +987,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1001,7 +1001,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1057,7 +1057,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1085,7 +1085,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1099,7 +1099,7 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1113,7 +1113,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1141,7 +1141,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1155,7 +1155,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1169,7 +1169,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1183,7 +1183,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1197,7 +1197,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1225,7 +1225,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1239,7 +1239,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1267,7 +1267,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1309,7 +1309,7 @@
             "country": "canada",
             "liveliness": "94",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "7114",
             "URI": [
@@ -1337,7 +1337,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1351,7 +1351,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1365,7 +1365,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1379,7 +1379,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1393,7 +1393,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1407,7 +1407,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1421,7 +1421,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1449,7 +1449,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1463,7 +1463,7 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1477,7 +1477,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1491,7 +1491,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1519,7 +1519,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1533,7 +1533,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1547,7 +1547,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1561,7 +1561,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1575,7 +1575,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1589,7 +1589,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1603,7 +1603,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1617,7 +1617,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1631,7 +1631,7 @@
             "country": "canada",
             "liveliness": "96",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
             "URI": [
@@ -1645,9 +1645,9 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "8378",
             "URI": [
                 "canada__1"
             ]
@@ -1659,9 +1659,9 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8378",
+            "mbps": "8370",
             "URI": [
                 "canada__1"
             ]
@@ -1673,7 +1673,7 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -1687,7 +1687,7 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -1701,7 +1701,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1715,7 +1715,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -1729,7 +1729,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1743,7 +1743,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1757,7 +1757,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1771,7 +1771,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1785,7 +1785,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1799,7 +1799,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1827,7 +1827,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1855,7 +1855,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1883,7 +1883,7 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -1897,7 +1897,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1911,7 +1911,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1939,7 +1939,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1953,7 +1953,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1967,7 +1967,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1981,7 +1981,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370, ...",
             "URI": [
@@ -1995,7 +1995,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2051,7 +2051,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2065,7 +2065,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2093,7 +2093,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2107,7 +2107,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2121,7 +2121,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2149,7 +2149,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2163,7 +2163,7 @@
             "country": "canada",
             "liveliness": "96",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3625",
             "URI": [
@@ -2191,7 +2191,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2205,7 +2205,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2219,7 +2219,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2247,7 +2247,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -2261,7 +2261,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -2275,7 +2275,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370",
             "URI": [
@@ -2289,7 +2289,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2303,7 +2303,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2331,7 +2331,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
             "URI": [
@@ -2345,7 +2345,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2415,7 +2415,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2429,7 +2429,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8370, ...",
             "URI": [
@@ -2443,7 +2443,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2457,7 +2457,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2471,7 +2471,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2485,7 +2485,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2499,7 +2499,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2513,7 +2513,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378, ...",
             "URI": [
@@ -2555,7 +2555,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2569,7 +2569,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2597,7 +2597,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2625,7 +2625,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2639,7 +2639,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2667,7 +2667,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -2681,7 +2681,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -2695,7 +2695,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2709,7 +2709,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2723,7 +2723,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2737,7 +2737,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2751,7 +2751,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2773,9 +2773,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -2787,13 +2787,13 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
@@ -2835,7 +2835,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2849,7 +2849,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2863,7 +2863,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
@@ -2877,7 +2877,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2891,7 +2891,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2933,7 +2933,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2947,7 +2947,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2961,7 +2961,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -2989,7 +2989,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -3017,7 +3017,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -3031,7 +3031,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -3071,9 +3071,9 @@
             "channel": "CANAL D",
             "link": "https://list.iptvcat.com/my_list/s/661eea8e91d6848f679d2dea18d4757b.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "6730",
             "URI": [
@@ -3085,9 +3085,9 @@
             "channel": "CASA",
             "link": "https://list.iptvcat.com/my_list/s/ec793883fc54d5a4c791372158c25928.m3u8",
             "country": "canada",
-            "liveliness": "39",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "38",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -3101,7 +3101,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3115,7 +3115,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3129,7 +3129,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3143,7 +3143,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3157,7 +3157,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3171,7 +3171,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3199,7 +3199,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3227,7 +3227,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3255,7 +3255,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3269,7 +3269,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3297,7 +3297,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3325,7 +3325,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3353,7 +3353,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3367,7 +3367,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3381,7 +3381,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3395,7 +3395,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3409,7 +3409,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3423,7 +3423,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3437,7 +3437,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3451,7 +3451,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3477,9 +3477,9 @@
             "channel": "CP24",
             "link": "https://list.iptvcat.com/my_list/s/9dfa7ce4c9c7cb9de3919d09a3aa7947.m3u8",
             "country": "canada",
-            "liveliness": "36",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "34",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "3424",
             "URI": [
@@ -3493,7 +3493,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3507,7 +3507,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3521,7 +3521,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3535,7 +3535,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3549,7 +3549,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -3563,7 +3563,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3577,7 +3577,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3591,7 +3591,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3605,7 +3605,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3647,7 +3647,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3661,7 +3661,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3717,7 +3717,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3745,7 +3745,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3759,7 +3759,7 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3773,7 +3773,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3801,7 +3801,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3815,7 +3815,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3829,7 +3829,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3843,7 +3843,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3857,7 +3857,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3885,7 +3885,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3899,7 +3899,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3927,7 +3927,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3969,7 +3969,7 @@
             "country": "canada",
             "liveliness": "94",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "7114",
             "URI": [
@@ -3997,7 +3997,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4011,7 +4011,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4025,7 +4025,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4039,7 +4039,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4053,7 +4053,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4067,7 +4067,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4081,7 +4081,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4095,7 +4095,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4109,7 +4109,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4137,7 +4137,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4151,7 +4151,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4165,7 +4165,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4179,7 +4179,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4193,7 +4193,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4221,7 +4221,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4263,7 +4263,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4277,7 +4277,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4291,7 +4291,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4305,7 +4305,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4319,7 +4319,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4333,7 +4333,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4361,7 +4361,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4375,7 +4375,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4389,7 +4389,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4401,9 +4401,9 @@
             "channel": "Disney XD HD",
             "link": "https://list.iptvcat.com/my_list/s/744c1dbdd76bb02b0a1d70ab82e71ff8.m3u8",
             "country": "canada",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "98",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4431,7 +4431,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -4445,7 +4445,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4459,7 +4459,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4473,7 +4473,7 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -4487,7 +4487,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4501,7 +4501,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4513,11 +4513,11 @@
             "channel": "FAMILY JR",
             "link": "https://list.iptvcat.com/my_list/s/d3d7f020ad26e06bfd8c221b29d6ef8e.m3u8",
             "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "21",
+            "status": "online",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
-            "mbps": "3424",
+            "mbps": "1929",
             "URI": [
                 "canada__1"
             ]
@@ -4529,7 +4529,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4557,7 +4557,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4571,7 +4571,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4585,7 +4585,7 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4599,7 +4599,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4641,7 +4641,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4655,7 +4655,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4669,7 +4669,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4711,7 +4711,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4725,7 +4725,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4739,7 +4739,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4753,7 +4753,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4767,7 +4767,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -4781,7 +4781,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4795,7 +4795,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4809,7 +4809,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4851,7 +4851,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4865,7 +4865,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4879,7 +4879,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4893,7 +4893,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4907,7 +4907,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -4935,7 +4935,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -4949,7 +4949,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -4963,7 +4963,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -4977,7 +4977,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -4991,7 +4991,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -5005,7 +5005,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5019,7 +5019,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5033,7 +5033,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5061,7 +5061,7 @@
             "country": "canada",
             "liveliness": "97",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -5075,7 +5075,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5089,7 +5089,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5103,7 +5103,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5159,7 +5159,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5173,7 +5173,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5201,7 +5201,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5215,7 +5215,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5229,7 +5229,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5257,7 +5257,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1760",
             "URI": [
@@ -5271,7 +5271,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5299,7 +5299,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5313,7 +5313,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5327,7 +5327,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5341,7 +5341,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5369,7 +5369,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5397,7 +5397,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5425,7 +5425,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5467,7 +5467,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -5481,7 +5481,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -5495,7 +5495,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5509,7 +5509,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5523,7 +5523,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5537,7 +5537,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5551,7 +5551,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5573,9 +5573,9 @@
             ]
         },
         {
-            "id": "55799",
-            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
+            "id": "51553",
+            "channel": "Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
@@ -5587,13 +5587,13 @@
             ]
         },
         {
-            "id": "51553",
-            "channel": "Amazing Discoveries TV",
-            "link": "https://list.iptvcat.com/my_list/s/6804d058abc7310cd93c70c643c7b33b.m3u8",
+            "id": "55799",
+            "channel": "Amazing Discoveries TV, CA | Amazing Discoveries TV",
+            "link": "https://list.iptvcat.com/my_list/s/7b18287a64f870c246cf033291abc8b4.m3u8",
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
             "URI": [
@@ -5635,7 +5635,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5649,7 +5649,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5663,7 +5663,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
@@ -5677,7 +5677,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5691,7 +5691,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5733,7 +5733,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5747,7 +5747,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5761,7 +5761,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -5789,7 +5789,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -5817,7 +5817,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -5831,7 +5831,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -5871,9 +5871,9 @@
             "channel": "CANAL D",
             "link": "https://list.iptvcat.com/my_list/s/661eea8e91d6848f679d2dea18d4757b.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "6730",
             "URI": [
@@ -5885,9 +5885,9 @@
             "channel": "CASA",
             "link": "https://list.iptvcat.com/my_list/s/ec793883fc54d5a4c791372158c25928.m3u8",
             "country": "canada",
-            "liveliness": "39",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "38",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5901,7 +5901,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5915,7 +5915,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5929,7 +5929,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5943,7 +5943,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5957,7 +5957,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5971,7 +5971,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5999,7 +5999,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6027,7 +6027,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6055,7 +6055,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6069,7 +6069,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6097,7 +6097,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6125,7 +6125,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6153,7 +6153,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6167,7 +6167,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6181,7 +6181,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6195,7 +6195,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6209,7 +6209,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6223,7 +6223,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6237,7 +6237,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6251,7 +6251,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6277,9 +6277,9 @@
             "channel": "CP24",
             "link": "https://list.iptvcat.com/my_list/s/9dfa7ce4c9c7cb9de3919d09a3aa7947.m3u8",
             "country": "canada",
-            "liveliness": "36",
-            "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "liveliness": "34",
+            "status": "offline",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "3424",
             "URI": [
@@ -6293,7 +6293,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6307,7 +6307,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6321,7 +6321,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6335,7 +6335,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6349,7 +6349,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -6363,7 +6363,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6377,7 +6377,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6391,7 +6391,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6405,7 +6405,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6447,7 +6447,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6461,7 +6461,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6517,7 +6517,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6545,7 +6545,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6559,7 +6559,7 @@
             "country": "canada",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6573,7 +6573,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6601,7 +6601,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6615,7 +6615,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6629,7 +6629,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6643,7 +6643,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6657,7 +6657,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6685,7 +6685,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6699,7 +6699,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6727,7 +6727,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6769,7 +6769,7 @@
             "country": "canada",
             "liveliness": "94",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "hd",
             "mbps": "7114",
             "URI": [
@@ -6797,7 +6797,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6811,7 +6811,7 @@
             "country": "canada",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6825,7 +6825,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6839,7 +6839,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6853,7 +6853,7 @@
             "country": "canada",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2023-01-19T00:00:00Z",
+            "lastChecked": "2023-01-20T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
