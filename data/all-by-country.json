@@ -169,55 +169,13 @@
             ]
         },
         {
-            "id": "2693553",
-            "channel": "CA CBC Toronto (CBLT)",
-            "link": "https://list.iptvcat.com/my_list/s/f87ce77cc251523c18560b393f8900b1.m3u8",
-            "country": "canada",
-            "liveliness": "45",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693578",
-            "channel": "CA CNN",
-            "link": "https://list.iptvcat.com/my_list/s/59cbcf70aa992625e728e95f587ce5ea.m3u8",
-            "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
             "id": "2693615",
             "channel": "CA CRIME INVESTIGATION",
             "link": "https://list.iptvcat.com/my_list/s/fca68c8968d7673597c64872798833ce.m3u8",
             "country": "canada",
-            "liveliness": "32",
+            "liveliness": "31",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693616",
-            "channel": "CA CTV COMEDY",
-            "link": "https://list.iptvcat.com/my_list/s/d62ded4bedf3f144b37b469fbeb4c789.m3u8",
-            "country": "canada",
-            "liveliness": "43",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -229,65 +187,9 @@
             "channel": "CA CTV Drama",
             "link": "https://list.iptvcat.com/my_list/s/e81e4c93eb1c209dcebf71b4db9142de.m3u8",
             "country": "canada",
-            "liveliness": "27",
+            "liveliness": "25",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693618",
-            "channel": "CA CTV MONTREAL",
-            "link": "https://list.iptvcat.com/my_list/s/53f6588fa4e610eb8237880a3b2a43fa.m3u8",
-            "country": "canada",
-            "liveliness": "21",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693621",
-            "channel": "CA CTV OTTAWA",
-            "link": "https://list.iptvcat.com/my_list/s/0a0a359a8866bd517ff685b9af2b7929.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693624",
-            "channel": "CA CTV TORONTO",
-            "link": "https://list.iptvcat.com/my_list/s/0e49d4f56a56e1b5b185f118d96e9366.m3u8",
-            "country": "canada",
-            "liveliness": "29",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693626",
-            "channel": "CA CTV TORONTO (CFTO)",
-            "link": "https://list.iptvcat.com/my_list/s/22844cacf88ab6c97da7ecd8f9e52a6e.m3u8",
-            "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -299,39 +201,11 @@
             "channel": "CA CTV2 OTTAWA",
             "link": "https://list.iptvcat.com/my_list/s/7e7fa2a0b0517dc64bcd18d609c748f1.m3u8",
             "country": "canada",
-            "liveliness": "18",
+            "liveliness": "17",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693638",
-            "channel": "CA CTV_Two_Atlantic",
-            "link": "https://list.iptvcat.com/my_list/s/e44dc37cfeab3a166ea9d6d13d483eda.m3u8",
-            "country": "canada",
-            "liveliness": "16",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693646",
-            "channel": "CA DISNEY_XD",
-            "link": "https://list.iptvcat.com/my_list/s/106f1f2d4160b25e79d973c3fa14dba8.m3u8",
-            "country": "canada",
-            "liveliness": "40",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -341,23 +215,9 @@
             "channel": "CA Discovery Channel",
             "link": "https://list.iptvcat.com/my_list/s/66dc69f50d0fc96017e4b4fa6be9f2ef.m3u8",
             "country": "canada",
-            "liveliness": "36",
+            "liveliness": "35",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693649",
-            "channel": "CA E! Entertainment Television",
-            "link": "https://list.iptvcat.com/my_list/s/83656c719b04cd79847d0b9ea07464e7.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -369,37 +229,9 @@
             "channel": "CA Evasion (FR)",
             "link": "https://list.iptvcat.com/my_list/s/6ad7357fbddb9da54ad27a187e10a169.m3u8",
             "country": "canada",
-            "liveliness": "40",
+            "liveliness": "38",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693651",
-            "channel": "CA FAMILY",
-            "link": "https://list.iptvcat.com/my_list/s/9b81deb507148eebc62e89687493b67c.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693655",
-            "channel": "CA Game TV",
-            "link": "https://list.iptvcat.com/my_list/s/005e52798f59861c82fa52b095a252cb.m3u8",
-            "country": "canada",
-            "liveliness": "37",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -411,39 +243,11 @@
             "channel": "CA Global Toronto (CIII)",
             "link": "https://list.iptvcat.com/my_list/s/20ebc530ee15e576b2232991942c5ca2.m3u8",
             "country": "canada",
-            "liveliness": "30",
+            "liveliness": "29",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693684",
-            "channel": "CA HGTV",
-            "link": "https://list.iptvcat.com/my_list/s/b1a5dd6bc5efda85b2d667469877e6e0.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693686",
-            "channel": "CA Historia (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/fe8c2f3e1acabcaeaa2be316169f9def.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -453,37 +257,9 @@
             "channel": "CA History Channel",
             "link": "https://list.iptvcat.com/my_list/s/feecb04bb651e93db768a851a1f47992.m3u8",
             "country": "canada",
-            "liveliness": "29",
+            "liveliness": "28",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693702",
-            "channel": "CA ICI Montreal (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/6b0137e985765b8b2e985e4cf8151a84.m3u8",
-            "country": "canada",
-            "liveliness": "56",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693718",
-            "channel": "CA Lifetime",
-            "link": "https://list.iptvcat.com/my_list/s/997549eb04ddd3038191f527cd4f54a0.m3u8",
-            "country": "canada",
-            "liveliness": "34",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -495,9 +271,9 @@
             "channel": "CA MovieTime",
             "link": "https://list.iptvcat.com/my_list/s/8b5d84bfe243c1cb6fa439a5795ccac5.m3u8",
             "country": "canada",
-            "liveliness": "44",
+            "liveliness": "42",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -511,21 +287,7 @@
             "country": "canada",
             "liveliness": "18",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693751",
-            "channel": "CA Nat Geo Wild",
-            "link": "https://list.iptvcat.com/my_list/s/830eaba342d9a26b50effb2971fe5712.m3u8",
-            "country": "canada",
-            "liveliness": "30",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -537,9 +299,9 @@
             "channel": "CA PEACHTREE",
             "link": "https://list.iptvcat.com/my_list/s/1ef0bee2e4b9a529d10001a628c9429e.m3u8",
             "country": "canada",
-            "liveliness": "26",
+            "liveliness": "25",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -551,39 +313,11 @@
             "channel": "CA TSC",
             "link": "https://list.iptvcat.com/my_list/s/884ace9b6ecaf332db5a5aca9fb903aa.m3u8",
             "country": "canada",
-            "liveliness": "21",
+            "liveliness": "20",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693820",
-            "channel": "CA TV5 Quebec (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/7387d3e1f7032bc83a9c6e48f16d2ac7.m3u8",
-            "country": "canada",
-            "liveliness": "18",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693810",
-            "channel": "CA Teletoon (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/47858dda944cf0bf8a6ebc4ee4d0188b.m3u8",
-            "country": "canada",
-            "liveliness": "45",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -593,9 +327,9 @@
             "channel": "CA W_NETWORK",
             "link": "https://list.iptvcat.com/my_list/s/f0d98d57f83cdadaeb85b732d67527a5.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -609,23 +343,9 @@
             "country": "canada",
             "liveliness": "20",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693832",
-            "channel": "CA Zeste (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/1702f7219c1fa15873b63aabd8067c98.m3u8",
-            "country": "canada",
-            "liveliness": "18",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
             "URI": [
                 "canada__4"
             ]
@@ -1401,9 +1121,9 @@
             ]
         },
         {
-            "id": "2591509",
-            "channel": "Rogers Guelph",
-            "link": "https://list.iptvcat.com/my_list/s/587e4490edb54d360ecf78a0be15bd48.m3u8",
+            "id": "2591248",
+            "channel": "CityCT Montreal",
+            "link": "https://list.iptvcat.com/my_list/s/3951689e68c64fc37a71cc3d4a1be693.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1415,9 +1135,9 @@
             ]
         },
         {
-            "id": "2591510",
-            "channel": "Rogers Kitchener",
-            "link": "https://list.iptvcat.com/my_list/s/a2695f69c841930c17d458ff3ee305db.m3u8",
+            "id": "2591258",
+            "channel": "Comedy Network (East) CA",
+            "link": "https://list.iptvcat.com/my_list/s/d7a65a7b5a14303fc0ff7913c89b73f3.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1429,9 +1149,9 @@
             ]
         },
         {
-            "id": "2591513",
-            "channel": "SHOPPING",
-            "link": "https://list.iptvcat.com/my_list/s/c6233bf51b85f721951cce6b28e53e43.m3u8",
+            "id": "2591260",
+            "channel": "Cooking Channel CA",
+            "link": "https://list.iptvcat.com/my_list/s/152fbc5ce382166ea698e298256d58fc.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1443,9 +1163,9 @@
             ]
         },
         {
-            "id": "2591514",
-            "channel": "SILVER SCREEN CLASSICS",
-            "link": "https://list.iptvcat.com/my_list/s/f123f559609f0598677c8ddb1651dddf.m3u8",
+            "id": "2591262",
+            "channel": "Cottage Life",
+            "link": "https://list.iptvcat.com/my_list/s/5434037bb28226f87609e963911f74bd.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1457,9 +1177,9 @@
             ]
         },
         {
-            "id": "2591511",
-            "channel": "Salt \u0026 Light",
-            "link": "https://list.iptvcat.com/my_list/s/0c0832f1407f031499915fb0277a1f1d.m3u8",
+            "id": "2591266",
+            "channel": "Crave 1",
+            "link": "https://list.iptvcat.com/my_list/s/f7aa0ac0d27fad19ca9a4eb4417f1835.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1471,37 +1191,9 @@
             ]
         },
         {
-            "id": "382",
-            "channel": "Sardari TV",
-            "link": "https://list.iptvcat.com/my_list/s/529e6bb3c5b04e80660e9e92d51f9978.m3u8",
-            "country": "canada",
-            "liveliness": "98",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "9546",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2266821",
-            "channel": "Sikh Spiritual Centre Rexdale (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/ea0d1c9c1cd7f1ca982752ebbc2600d6.m3u8",
-            "country": "canada",
-            "liveliness": "98",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2591515",
-            "channel": "Slice CA",
-            "link": "https://list.iptvcat.com/my_list/s/0f0519e24d0fe758d14273d2859775d2.m3u8",
+            "id": "2591268",
+            "channel": "Crave 2",
+            "link": "https://list.iptvcat.com/my_list/s/1356cb08539b167f584b975994107862.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1513,9 +1205,9 @@
             ]
         },
         {
-            "id": "2591516",
-            "channel": "Smithsonian Channel",
-            "link": "https://list.iptvcat.com/my_list/s/ea3524b99c3f257399b0ae8c77bc8f97.m3u8",
+            "id": "2591270",
+            "channel": "Crave 3",
+            "link": "https://list.iptvcat.com/my_list/s/6a16ea279b261e9bed5f7683f68aa54d.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1527,9 +1219,9 @@
             ]
         },
         {
-            "id": "2591520",
-            "channel": "Starz1 (East)",
-            "link": "https://list.iptvcat.com/my_list/s/d3b6f831c53fe931e3c17a9a324b3757.m3u8",
+            "id": "2591274",
+            "channel": "Crave 4",
+            "link": "https://list.iptvcat.com/my_list/s/a9839febc2c3b57c23f1e4842ac8987c.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1541,9 +1233,9 @@
             ]
         },
         {
-            "id": "2591521",
-            "channel": "Starz2 (East)",
-            "link": "https://list.iptvcat.com/my_list/s/b46a74a4845841e867a4174152686644.m3u8",
+            "id": "2591344",
+            "channel": "DIY Network CA",
+            "link": "https://list.iptvcat.com/my_list/s/25a436406882fb48fc54693b5055e389.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1555,23 +1247,9 @@
             ]
         },
         {
-            "id": "2472223",
-            "channel": "Stingray Soul Storm (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/b2ac768f9e96530a5c40be1ae824f85a.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2591524",
-            "channel": "Super Channel Fuse",
-            "link": "https://list.iptvcat.com/my_list/s/ec4d4bd993c92e0e4cde8fbf4612175a.m3u8",
+            "id": "2591348",
+            "channel": "DTOUR",
+            "link": "https://list.iptvcat.com/my_list/s/469cf36c566e8fa4cdc9a4d7b1b0b1c4.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1583,9 +1261,9 @@
             ]
         },
         {
-            "id": "2591525",
-            "channel": "Super Channel Vault",
-            "link": "https://list.iptvcat.com/my_list/s/a43a6d29f2f4609ed82ccead4091d942.m3u8",
+            "id": "2591324",
+            "channel": "De Película HD MX",
+            "link": "https://list.iptvcat.com/my_list/s/8e17d8232ad2afc9a0a782b8bed3f535.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1597,9 +1275,9 @@
             ]
         },
         {
-            "id": "2591532",
-            "channel": "TLC",
-            "link": "https://list.iptvcat.com/my_list/s/995259dad3831af5e0bcb6016849ac16.m3u8",
+            "id": "2591326",
+            "channel": "Deja View",
+            "link": "https://list.iptvcat.com/my_list/s/25a67f906a90fc3d90380a10faf9c59c.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1611,26 +1289,12 @@
             ]
         },
         {
-            "id": "2591533",
-            "channel": "TLN Italian",
-            "link": "https://list.iptvcat.com/my_list/s/b7b44e7e17b869f52bde520cc378b333.m3u8",
+            "id": "2266786",
+            "channel": "DesheBideshe TV (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/0bca3a8dee3ab0653dab3c79cf4ed81a.m3u8",
             "country": "canada",
-            "liveliness": "100",
+            "liveliness": "97",
             "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2266832",
-            "channel": "TV 16 Toronto (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/b7f1062c838699b9aa92c3547775c210.m3u8",
-            "country": "canada",
-            "liveliness": "95",
-            "status": "offline",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
             "mbps": "3625",
@@ -1639,9 +1303,9 @@
             ]
         },
         {
-            "id": "2591539",
-            "channel": "TVO CA",
-            "link": "https://list.iptvcat.com/my_list/s/33ce43f6d80ac72ca06871091253b2c4.m3u8",
+            "id": "2591328",
+            "channel": "Discovery Channel CA",
+            "link": "https://list.iptvcat.com/my_list/s/96b1ba8b462b3c4d46a33d8f517e6a03.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
@@ -1653,43 +1317,85 @@
             ]
         },
         {
-            "id": "386",
-            "channel": "Tamil Vision International, Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/a24ccb6eb140468621ab517572827df2.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "51574",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
-            "country": "canada",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "385",
-            "channel": "Tamil Vision TV",
-            "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
+            "id": "2591330",
+            "channel": "Discovery Science CA",
+            "link": "https://list.iptvcat.com/my_list/s/83fe6eb00d5f44127d7a941972bc0348.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591332",
+            "channel": "Discovery Velocity CA",
+            "link": "https://list.iptvcat.com/my_list/s/b870ebc78b8fbc270c2eca7fc77a822f.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591334",
+            "channel": "Disney Channel (East) CA",
+            "link": "https://list.iptvcat.com/my_list/s/9ac9120fbede84fb7da25d454db29c2b.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591340",
+            "channel": "Disney Junior CA",
+            "link": "https://list.iptvcat.com/my_list/s/167665f68d450d3784730af69a7e1e49.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591342",
+            "channel": "Disney XD CA",
+            "link": "https://list.iptvcat.com/my_list/s/fd7f9f428a45aca6cbe9ae650af6133b.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591346",
+            "channel": "Documentary Channel",
+            "link": "https://list.iptvcat.com/my_list/s/6d07e367252cdd5f99e1558c48c2471b.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "canada__4"
             ]
@@ -2073,55 +1779,13 @@
             ]
         },
         {
-            "id": "2693553",
-            "channel": "CA CBC Toronto (CBLT)",
-            "link": "https://list.iptvcat.com/my_list/s/f87ce77cc251523c18560b393f8900b1.m3u8",
-            "country": "canada",
-            "liveliness": "45",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693578",
-            "channel": "CA CNN",
-            "link": "https://list.iptvcat.com/my_list/s/59cbcf70aa992625e728e95f587ce5ea.m3u8",
-            "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
             "id": "2693615",
             "channel": "CA CRIME INVESTIGATION",
             "link": "https://list.iptvcat.com/my_list/s/fca68c8968d7673597c64872798833ce.m3u8",
             "country": "canada",
-            "liveliness": "32",
+            "liveliness": "31",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693616",
-            "channel": "CA CTV COMEDY",
-            "link": "https://list.iptvcat.com/my_list/s/d62ded4bedf3f144b37b469fbeb4c789.m3u8",
-            "country": "canada",
-            "liveliness": "43",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2133,65 +1797,9 @@
             "channel": "CA CTV Drama",
             "link": "https://list.iptvcat.com/my_list/s/e81e4c93eb1c209dcebf71b4db9142de.m3u8",
             "country": "canada",
-            "liveliness": "27",
+            "liveliness": "25",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693618",
-            "channel": "CA CTV MONTREAL",
-            "link": "https://list.iptvcat.com/my_list/s/53f6588fa4e610eb8237880a3b2a43fa.m3u8",
-            "country": "canada",
-            "liveliness": "21",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693621",
-            "channel": "CA CTV OTTAWA",
-            "link": "https://list.iptvcat.com/my_list/s/0a0a359a8866bd517ff685b9af2b7929.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693624",
-            "channel": "CA CTV TORONTO",
-            "link": "https://list.iptvcat.com/my_list/s/0e49d4f56a56e1b5b185f118d96e9366.m3u8",
-            "country": "canada",
-            "liveliness": "29",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693626",
-            "channel": "CA CTV TORONTO (CFTO)",
-            "link": "https://list.iptvcat.com/my_list/s/22844cacf88ab6c97da7ecd8f9e52a6e.m3u8",
-            "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -2203,39 +1811,11 @@
             "channel": "CA CTV2 OTTAWA",
             "link": "https://list.iptvcat.com/my_list/s/7e7fa2a0b0517dc64bcd18d609c748f1.m3u8",
             "country": "canada",
-            "liveliness": "18",
+            "liveliness": "17",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693638",
-            "channel": "CA CTV_Two_Atlantic",
-            "link": "https://list.iptvcat.com/my_list/s/e44dc37cfeab3a166ea9d6d13d483eda.m3u8",
-            "country": "canada",
-            "liveliness": "16",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693646",
-            "channel": "CA DISNEY_XD",
-            "link": "https://list.iptvcat.com/my_list/s/106f1f2d4160b25e79d973c3fa14dba8.m3u8",
-            "country": "canada",
-            "liveliness": "40",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -2245,23 +1825,9 @@
             "channel": "CA Discovery Channel",
             "link": "https://list.iptvcat.com/my_list/s/66dc69f50d0fc96017e4b4fa6be9f2ef.m3u8",
             "country": "canada",
-            "liveliness": "36",
+            "liveliness": "35",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693649",
-            "channel": "CA E! Entertainment Television",
-            "link": "https://list.iptvcat.com/my_list/s/83656c719b04cd79847d0b9ea07464e7.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2273,37 +1839,9 @@
             "channel": "CA Evasion (FR)",
             "link": "https://list.iptvcat.com/my_list/s/6ad7357fbddb9da54ad27a187e10a169.m3u8",
             "country": "canada",
-            "liveliness": "40",
+            "liveliness": "38",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693651",
-            "channel": "CA FAMILY",
-            "link": "https://list.iptvcat.com/my_list/s/9b81deb507148eebc62e89687493b67c.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693655",
-            "channel": "CA Game TV",
-            "link": "https://list.iptvcat.com/my_list/s/005e52798f59861c82fa52b095a252cb.m3u8",
-            "country": "canada",
-            "liveliness": "37",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2315,39 +1853,11 @@
             "channel": "CA Global Toronto (CIII)",
             "link": "https://list.iptvcat.com/my_list/s/20ebc530ee15e576b2232991942c5ca2.m3u8",
             "country": "canada",
-            "liveliness": "30",
+            "liveliness": "29",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693684",
-            "channel": "CA HGTV",
-            "link": "https://list.iptvcat.com/my_list/s/b1a5dd6bc5efda85b2d667469877e6e0.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693686",
-            "channel": "CA Historia (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/fe8c2f3e1acabcaeaa2be316169f9def.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -2357,37 +1867,9 @@
             "channel": "CA History Channel",
             "link": "https://list.iptvcat.com/my_list/s/feecb04bb651e93db768a851a1f47992.m3u8",
             "country": "canada",
-            "liveliness": "29",
+            "liveliness": "28",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693702",
-            "channel": "CA ICI Montreal (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/6b0137e985765b8b2e985e4cf8151a84.m3u8",
-            "country": "canada",
-            "liveliness": "56",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693718",
-            "channel": "CA Lifetime",
-            "link": "https://list.iptvcat.com/my_list/s/997549eb04ddd3038191f527cd4f54a0.m3u8",
-            "country": "canada",
-            "liveliness": "34",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2399,9 +1881,9 @@
             "channel": "CA MovieTime",
             "link": "https://list.iptvcat.com/my_list/s/8b5d84bfe243c1cb6fa439a5795ccac5.m3u8",
             "country": "canada",
-            "liveliness": "44",
+            "liveliness": "42",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2415,21 +1897,7 @@
             "country": "canada",
             "liveliness": "18",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693751",
-            "channel": "CA Nat Geo Wild",
-            "link": "https://list.iptvcat.com/my_list/s/830eaba342d9a26b50effb2971fe5712.m3u8",
-            "country": "canada",
-            "liveliness": "30",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2441,9 +1909,9 @@
             "channel": "CA PEACHTREE",
             "link": "https://list.iptvcat.com/my_list/s/1ef0bee2e4b9a529d10001a628c9429e.m3u8",
             "country": "canada",
-            "liveliness": "26",
+            "liveliness": "25",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -2455,39 +1923,11 @@
             "channel": "CA TSC",
             "link": "https://list.iptvcat.com/my_list/s/884ace9b6ecaf332db5a5aca9fb903aa.m3u8",
             "country": "canada",
-            "liveliness": "21",
+            "liveliness": "20",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693820",
-            "channel": "CA TV5 Quebec (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/7387d3e1f7032bc83a9c6e48f16d2ac7.m3u8",
-            "country": "canada",
-            "liveliness": "18",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693810",
-            "channel": "CA Teletoon (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/47858dda944cf0bf8a6ebc4ee4d0188b.m3u8",
-            "country": "canada",
-            "liveliness": "45",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -2497,9 +1937,9 @@
             "channel": "CA W_NETWORK",
             "link": "https://list.iptvcat.com/my_list/s/f0d98d57f83cdadaeb85b732d67527a5.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -2513,23 +1953,9 @@
             "country": "canada",
             "liveliness": "20",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693832",
-            "channel": "CA Zeste (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/1702f7219c1fa15873b63aabd8067c98.m3u8",
-            "country": "canada",
-            "liveliness": "18",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
             "URI": [
                 "canada__4"
             ]
@@ -4107,25 +3533,11 @@
             "channel": "HD ADDIKTV",
             "link": "https://list.iptvcat.com/my_list/s/1dfa1df21f7f9d268ae2b539dd15560a.m3u8",
             "country": "canada",
-            "liveliness": "18",
+            "liveliness": "17",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2694015",
-            "channel": "HD CNN INTERNATIONAL",
-            "link": "https://list.iptvcat.com/my_list/s/a6f3fe69db028dc1f892602bd564b441.m3u8",
-            "country": "canada",
-            "liveliness": "16",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2478",
             "URI": [
                 "canada__4"
             ]
@@ -4135,9 +3547,9 @@
             "channel": "HD COTTAGE LIFE",
             "link": "https://list.iptvcat.com/my_list/s/ef9ad3e78533e105a60d89498cbbb154.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "2478",
             "URI": [
@@ -4149,9 +3561,9 @@
             "channel": "HD GOLF",
             "link": "https://list.iptvcat.com/my_list/s/b35d614b6609e066c8185e31cfa63a93.m3u8",
             "country": "canada",
-            "liveliness": "25",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "liveliness": "26",
+            "status": "online",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "2478",
             "URI": [
@@ -4163,9 +3575,9 @@
             "channel": "HD GSN",
             "link": "https://list.iptvcat.com/my_list/s/d08bfb37ddb0768b3d613561712a61d8.m3u8",
             "country": "canada",
-            "liveliness": "14",
+            "liveliness": "13",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "2478",
             "URI": [
@@ -4177,9 +3589,9 @@
             "channel": "HD NTV",
             "link": "https://list.iptvcat.com/my_list/s/1a87ab2ad3efe0cfb4baf570e838374e.m3u8",
             "country": "canada",
-            "liveliness": "23",
+            "liveliness": "22",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "2478",
             "URI": [
@@ -4191,9 +3603,9 @@
             "channel": "HD SPACE",
             "link": "https://list.iptvcat.com/my_list/s/404940b22a5a0908cbb83abf7d0e4dd2.m3u8",
             "country": "canada",
-            "liveliness": "23",
+            "liveliness": "22",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "2478",
             "URI": [
@@ -4263,7 +3675,7 @@
             "country": "canada",
             "liveliness": "13",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "2478",
             "URI": [
@@ -4705,6 +4117,300 @@
             ]
         },
         {
+            "id": "2591509",
+            "channel": "Rogers Guelph",
+            "link": "https://list.iptvcat.com/my_list/s/587e4490edb54d360ecf78a0be15bd48.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591510",
+            "channel": "Rogers Kitchener",
+            "link": "https://list.iptvcat.com/my_list/s/a2695f69c841930c17d458ff3ee305db.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591513",
+            "channel": "SHOPPING",
+            "link": "https://list.iptvcat.com/my_list/s/c6233bf51b85f721951cce6b28e53e43.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591514",
+            "channel": "SILVER SCREEN CLASSICS",
+            "link": "https://list.iptvcat.com/my_list/s/f123f559609f0598677c8ddb1651dddf.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591511",
+            "channel": "Salt \u0026 Light",
+            "link": "https://list.iptvcat.com/my_list/s/0c0832f1407f031499915fb0277a1f1d.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "382",
+            "channel": "Sardari TV",
+            "link": "https://list.iptvcat.com/my_list/s/529e6bb3c5b04e80660e9e92d51f9978.m3u8",
+            "country": "canada",
+            "liveliness": "98",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "9546",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2266821",
+            "channel": "Sikh Spiritual Centre Rexdale (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/ea0d1c9c1cd7f1ca982752ebbc2600d6.m3u8",
+            "country": "canada",
+            "liveliness": "98",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "4318",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591515",
+            "channel": "Slice CA",
+            "link": "https://list.iptvcat.com/my_list/s/0f0519e24d0fe758d14273d2859775d2.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591516",
+            "channel": "Smithsonian Channel",
+            "link": "https://list.iptvcat.com/my_list/s/ea3524b99c3f257399b0ae8c77bc8f97.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591520",
+            "channel": "Starz1 (East)",
+            "link": "https://list.iptvcat.com/my_list/s/d3b6f831c53fe931e3c17a9a324b3757.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591521",
+            "channel": "Starz2 (East)",
+            "link": "https://list.iptvcat.com/my_list/s/b46a74a4845841e867a4174152686644.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2472223",
+            "channel": "Stingray Soul Storm (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/b2ac768f9e96530a5c40be1ae824f85a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591524",
+            "channel": "Super Channel Fuse",
+            "link": "https://list.iptvcat.com/my_list/s/ec4d4bd993c92e0e4cde8fbf4612175a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591525",
+            "channel": "Super Channel Vault",
+            "link": "https://list.iptvcat.com/my_list/s/a43a6d29f2f4609ed82ccead4091d942.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591532",
+            "channel": "TLC",
+            "link": "https://list.iptvcat.com/my_list/s/995259dad3831af5e0bcb6016849ac16.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591533",
+            "channel": "TLN Italian",
+            "link": "https://list.iptvcat.com/my_list/s/b7b44e7e17b869f52bde520cc378b333.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2266832",
+            "channel": "TV 16 Toronto (720p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/b7f1062c838699b9aa92c3547775c210.m3u8",
+            "country": "canada",
+            "liveliness": "95",
+            "status": "online",
+            "lastChecked": "2023-04-03T00:00:00Z",
+            "format": "hd",
+            "mbps": "3625",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591539",
+            "channel": "TVO CA",
+            "link": "https://list.iptvcat.com/my_list/s/33ce43f6d80ac72ca06871091253b2c4.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "386",
+            "channel": "Tamil Vision International, Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/a24ccb6eb140468621ab517572827df2.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "51574",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/88b57f8fdc9504ac7587eb13c2443a9a.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "385",
+            "channel": "Tamil Vision TV",
+            "link": "https://list.iptvcat.com/my_list/s/4f1f0989a3b23936a64fcdac76ebd943.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
             "id": "361",
             "channel": "5AAB TV",
             "link": "https://list.iptvcat.com/my_list/s/7253d5f63b1738f7e3451278557bc268.m3u8",
@@ -4873,55 +4579,13 @@
             ]
         },
         {
-            "id": "2693553",
-            "channel": "CA CBC Toronto (CBLT)",
-            "link": "https://list.iptvcat.com/my_list/s/f87ce77cc251523c18560b393f8900b1.m3u8",
-            "country": "canada",
-            "liveliness": "45",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693578",
-            "channel": "CA CNN",
-            "link": "https://list.iptvcat.com/my_list/s/59cbcf70aa992625e728e95f587ce5ea.m3u8",
-            "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
             "id": "2693615",
             "channel": "CA CRIME INVESTIGATION",
             "link": "https://list.iptvcat.com/my_list/s/fca68c8968d7673597c64872798833ce.m3u8",
             "country": "canada",
-            "liveliness": "32",
+            "liveliness": "31",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693616",
-            "channel": "CA CTV COMEDY",
-            "link": "https://list.iptvcat.com/my_list/s/d62ded4bedf3f144b37b469fbeb4c789.m3u8",
-            "country": "canada",
-            "liveliness": "43",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -4933,65 +4597,9 @@
             "channel": "CA CTV Drama",
             "link": "https://list.iptvcat.com/my_list/s/e81e4c93eb1c209dcebf71b4db9142de.m3u8",
             "country": "canada",
-            "liveliness": "27",
+            "liveliness": "25",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693618",
-            "channel": "CA CTV MONTREAL",
-            "link": "https://list.iptvcat.com/my_list/s/53f6588fa4e610eb8237880a3b2a43fa.m3u8",
-            "country": "canada",
-            "liveliness": "21",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693621",
-            "channel": "CA CTV OTTAWA",
-            "link": "https://list.iptvcat.com/my_list/s/0a0a359a8866bd517ff685b9af2b7929.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693624",
-            "channel": "CA CTV TORONTO",
-            "link": "https://list.iptvcat.com/my_list/s/0e49d4f56a56e1b5b185f118d96e9366.m3u8",
-            "country": "canada",
-            "liveliness": "29",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693626",
-            "channel": "CA CTV TORONTO (CFTO)",
-            "link": "https://list.iptvcat.com/my_list/s/22844cacf88ab6c97da7ecd8f9e52a6e.m3u8",
-            "country": "canada",
-            "liveliness": "20",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -5003,39 +4611,11 @@
             "channel": "CA CTV2 OTTAWA",
             "link": "https://list.iptvcat.com/my_list/s/7e7fa2a0b0517dc64bcd18d609c748f1.m3u8",
             "country": "canada",
-            "liveliness": "18",
+            "liveliness": "17",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693638",
-            "channel": "CA CTV_Two_Atlantic",
-            "link": "https://list.iptvcat.com/my_list/s/e44dc37cfeab3a166ea9d6d13d483eda.m3u8",
-            "country": "canada",
-            "liveliness": "16",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693646",
-            "channel": "CA DISNEY_XD",
-            "link": "https://list.iptvcat.com/my_list/s/106f1f2d4160b25e79d973c3fa14dba8.m3u8",
-            "country": "canada",
-            "liveliness": "40",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -5045,23 +4625,9 @@
             "channel": "CA Discovery Channel",
             "link": "https://list.iptvcat.com/my_list/s/66dc69f50d0fc96017e4b4fa6be9f2ef.m3u8",
             "country": "canada",
-            "liveliness": "36",
+            "liveliness": "35",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693649",
-            "channel": "CA E! Entertainment Television",
-            "link": "https://list.iptvcat.com/my_list/s/83656c719b04cd79847d0b9ea07464e7.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5073,37 +4639,9 @@
             "channel": "CA Evasion (FR)",
             "link": "https://list.iptvcat.com/my_list/s/6ad7357fbddb9da54ad27a187e10a169.m3u8",
             "country": "canada",
-            "liveliness": "40",
+            "liveliness": "38",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693651",
-            "channel": "CA FAMILY",
-            "link": "https://list.iptvcat.com/my_list/s/9b81deb507148eebc62e89687493b67c.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693655",
-            "channel": "CA Game TV",
-            "link": "https://list.iptvcat.com/my_list/s/005e52798f59861c82fa52b095a252cb.m3u8",
-            "country": "canada",
-            "liveliness": "37",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5115,39 +4653,11 @@
             "channel": "CA Global Toronto (CIII)",
             "link": "https://list.iptvcat.com/my_list/s/20ebc530ee15e576b2232991942c5ca2.m3u8",
             "country": "canada",
-            "liveliness": "30",
+            "liveliness": "29",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693684",
-            "channel": "CA HGTV",
-            "link": "https://list.iptvcat.com/my_list/s/b1a5dd6bc5efda85b2d667469877e6e0.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693686",
-            "channel": "CA Historia (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/fe8c2f3e1acabcaeaa2be316169f9def.m3u8",
-            "country": "canada",
-            "liveliness": "36",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -5157,37 +4667,9 @@
             "channel": "CA History Channel",
             "link": "https://list.iptvcat.com/my_list/s/feecb04bb651e93db768a851a1f47992.m3u8",
             "country": "canada",
-            "liveliness": "29",
+            "liveliness": "28",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693702",
-            "channel": "CA ICI Montreal (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/6b0137e985765b8b2e985e4cf8151a84.m3u8",
-            "country": "canada",
-            "liveliness": "56",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693718",
-            "channel": "CA Lifetime",
-            "link": "https://list.iptvcat.com/my_list/s/997549eb04ddd3038191f527cd4f54a0.m3u8",
-            "country": "canada",
-            "liveliness": "34",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5199,9 +4681,9 @@
             "channel": "CA MovieTime",
             "link": "https://list.iptvcat.com/my_list/s/8b5d84bfe243c1cb6fa439a5795ccac5.m3u8",
             "country": "canada",
-            "liveliness": "44",
+            "liveliness": "42",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5215,21 +4697,7 @@
             "country": "canada",
             "liveliness": "18",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693751",
-            "channel": "CA Nat Geo Wild",
-            "link": "https://list.iptvcat.com/my_list/s/830eaba342d9a26b50effb2971fe5712.m3u8",
-            "country": "canada",
-            "liveliness": "30",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5241,9 +4709,9 @@
             "channel": "CA PEACHTREE",
             "link": "https://list.iptvcat.com/my_list/s/1ef0bee2e4b9a529d10001a628c9429e.m3u8",
             "country": "canada",
-            "liveliness": "26",
+            "liveliness": "25",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -5255,39 +4723,11 @@
             "channel": "CA TSC",
             "link": "https://list.iptvcat.com/my_list/s/884ace9b6ecaf332db5a5aca9fb903aa.m3u8",
             "country": "canada",
-            "liveliness": "21",
+            "liveliness": "20",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693820",
-            "channel": "CA TV5 Quebec (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/7387d3e1f7032bc83a9c6e48f16d2ac7.m3u8",
-            "country": "canada",
-            "liveliness": "18",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693810",
-            "channel": "CA Teletoon (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/47858dda944cf0bf8a6ebc4ee4d0188b.m3u8",
-            "country": "canada",
-            "liveliness": "45",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3429",
             "URI": [
                 "canada__4"
             ]
@@ -5297,9 +4737,9 @@
             "channel": "CA W_NETWORK",
             "link": "https://list.iptvcat.com/my_list/s/f0d98d57f83cdadaeb85b732d67527a5.m3u8",
             "country": "canada",
-            "liveliness": "20",
+            "liveliness": "19",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -5313,23 +4753,9 @@
             "country": "canada",
             "liveliness": "20",
             "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
+            "lastChecked": "2023-04-03T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
-            "URI": [
-                "canada__4"
-            ]
-        },
-        {
-            "id": "2693832",
-            "channel": "CA Zeste (FR)",
-            "link": "https://list.iptvcat.com/my_list/s/1702f7219c1fa15873b63aabd8067c98.m3u8",
-            "country": "canada",
-            "liveliness": "18",
-            "status": "offline",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
             "URI": [
                 "canada__4"
             ]
@@ -6094,6 +5520,286 @@
             "id": "2591221",
             "channel": "Cartoon Network CA",
             "link": "https://list.iptvcat.com/my_list/s/7ae307f4c1b642632750cac4faf81bb6.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591248",
+            "channel": "CityCT Montreal",
+            "link": "https://list.iptvcat.com/my_list/s/3951689e68c64fc37a71cc3d4a1be693.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591258",
+            "channel": "Comedy Network (East) CA",
+            "link": "https://list.iptvcat.com/my_list/s/d7a65a7b5a14303fc0ff7913c89b73f3.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591260",
+            "channel": "Cooking Channel CA",
+            "link": "https://list.iptvcat.com/my_list/s/152fbc5ce382166ea698e298256d58fc.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591262",
+            "channel": "Cottage Life",
+            "link": "https://list.iptvcat.com/my_list/s/5434037bb28226f87609e963911f74bd.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591266",
+            "channel": "Crave 1",
+            "link": "https://list.iptvcat.com/my_list/s/f7aa0ac0d27fad19ca9a4eb4417f1835.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591268",
+            "channel": "Crave 2",
+            "link": "https://list.iptvcat.com/my_list/s/1356cb08539b167f584b975994107862.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591270",
+            "channel": "Crave 3",
+            "link": "https://list.iptvcat.com/my_list/s/6a16ea279b261e9bed5f7683f68aa54d.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591274",
+            "channel": "Crave 4",
+            "link": "https://list.iptvcat.com/my_list/s/a9839febc2c3b57c23f1e4842ac8987c.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591344",
+            "channel": "DIY Network CA",
+            "link": "https://list.iptvcat.com/my_list/s/25a436406882fb48fc54693b5055e389.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591348",
+            "channel": "DTOUR",
+            "link": "https://list.iptvcat.com/my_list/s/469cf36c566e8fa4cdc9a4d7b1b0b1c4.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591324",
+            "channel": "De Película HD MX",
+            "link": "https://list.iptvcat.com/my_list/s/8e17d8232ad2afc9a0a782b8bed3f535.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591326",
+            "channel": "Deja View",
+            "link": "https://list.iptvcat.com/my_list/s/25a67f906a90fc3d90380a10faf9c59c.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2266786",
+            "channel": "DesheBideshe TV (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/0bca3a8dee3ab0653dab3c79cf4ed81a.m3u8",
+            "country": "canada",
+            "liveliness": "97",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3625",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591328",
+            "channel": "Discovery Channel CA",
+            "link": "https://list.iptvcat.com/my_list/s/96b1ba8b462b3c4d46a33d8f517e6a03.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591330",
+            "channel": "Discovery Science CA",
+            "link": "https://list.iptvcat.com/my_list/s/83fe6eb00d5f44127d7a941972bc0348.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591332",
+            "channel": "Discovery Velocity CA",
+            "link": "https://list.iptvcat.com/my_list/s/b870ebc78b8fbc270c2eca7fc77a822f.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591334",
+            "channel": "Disney Channel (East) CA",
+            "link": "https://list.iptvcat.com/my_list/s/9ac9120fbede84fb7da25d454db29c2b.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591340",
+            "channel": "Disney Junior CA",
+            "link": "https://list.iptvcat.com/my_list/s/167665f68d450d3784730af69a7e1e49.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591342",
+            "channel": "Disney XD CA",
+            "link": "https://list.iptvcat.com/my_list/s/fd7f9f428a45aca6cbe9ae650af6133b.m3u8",
+            "country": "canada",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "canada__4"
+            ]
+        },
+        {
+            "id": "2591346",
+            "channel": "Documentary Channel",
+            "link": "https://list.iptvcat.com/my_list/s/6d07e367252cdd5f99e1558c48c2471b.m3u8",
             "country": "canada",
             "liveliness": "100",
             "status": "online",
